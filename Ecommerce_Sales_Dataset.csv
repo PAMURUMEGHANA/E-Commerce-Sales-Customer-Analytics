@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,State,Product,Category,Quantity,Unit_Price,Sales_Amount,Payment_Mode,Order_Status
+ORD00001,2025-02-22,CUST0280,Arun,Hyderabad,Telangana,Laptop,Electronics,2,52193.81,104387.62,Cash on Delivery,Delivered
+ORD00002,2025-11-05,CUST0014,Meena,Kolkata,West Bengal,Laptop,Electronics,1,51905.02,51905.02,Credit Card,Cancelled
+ORD00003,2025-03-23,CUST0217,Amit,Jaipur,Rajasthan,Mouse,Accessories,1,916.07,916.07,Debit Card,Delivered
+ORD00004,2025-07-14,CUST0050,Pooja,Chennai,Tamil Nadu,Headphones,Accessories,4,2418.3,9673.2,Debit Card,Delivered
+ORD00005,2025-03-05,CUST0194,Arun,Kochi,Kerala,Smartwatch,Accessories,3,5229.73,15689.19,Cash on Delivery,Cancelled
+ORD00006,2025-04-09,CUST0036,Priya,Pune,Maharashtra,Backpack,Lifestyle,2,1930.21,3860.42,Credit Card,Cancelled
+ORD00007,2025-05-23,CUST0233,Pooja,Pune,Maharashtra,Mobile Phone,Electronics,3,23612.53,70837.59,Credit Card,Delivered
+ORD00008,2025-11-28,CUST0037,Swathi,Delhi,Delhi,Keyboard,Accessories,1,1716.11,1716.11,Credit Card,Returned
+ORD00009,2025-11-24,CUST0286,Neha,Jaipur,Rajasthan,Power Bank,Accessories,1,1488.68,1488.68,Debit Card,Delivered
+ORD00010,2025-05-18,CUST0034,Rahul,Bangalore,Karnataka,Headphones,Accessories,3,2652.52,7957.56,Cash on Delivery,Delivered
+ORD00011,2025-08-23,CUST0074,Vijay,Delhi,Delhi,Headphones,Accessories,2,2447.82,4895.64,Credit Card,Returned
+ORD00012,2025-08-08,CUST0299,Rohit,Mumbai,Maharashtra,Power Bank,Accessories,2,1428.82,2857.64,Debit Card,Cancelled
+ORD00013,2025-02-26,CUST0079,Anjali,Mumbai,Maharashtra,Tablet,Electronics,1,16527.27,16527.27,Net Banking,Delivered
+ORD00014,2025-09-28,CUST0129,Meena,Kochi,Kerala,Mobile Phone,Electronics,1,22421.91,22421.91,UPI,Delivered
+ORD00015,2025-06-24,CUST0058,Sneha,Hyderabad,Telangana,Backpack,Lifestyle,3,1890.32,5670.96,Net Banking,Returned
+ORD00016,2025-05-15,CUST0257,Anjali,Chennai,Tamil Nadu,Monitor,Electronics,1,14621.86,14621.86,Cash on Delivery,Returned
+ORD00017,2025-04-12,CUST0079,Pooja,Hyderabad,Telangana,Backpack,Lifestyle,1,1850.02,1850.02,Credit Card,Cancelled
+ORD00018,2025-01-10,CUST0058,Pooja,Jaipur,Rajasthan,Office Chair,Furniture,3,9178.1,27534.3,Debit Card,Delivered
+ORD00019,2025-02-13,CUST0249,Arun,Mumbai,Maharashtra,Laptop,Electronics,1,55740.93,55740.93,Cash on Delivery,Delivered
+ORD00020,2025-05-16,CUST0271,Swathi,Chennai,Tamil Nadu,Tablet,Electronics,2,19608.66,39217.32,Net Banking,Delivered
+ORD00021,2025-06-09,CUST0205,Pooja,Mumbai,Maharashtra,Office Chair,Furniture,2,9341.76,18683.52,Net Banking,Returned
+ORD00022,2025-01-11,CUST0284,Neha,Jaipur,Rajasthan,Monitor,Electronics,1,13229.15,13229.15,Cash on Delivery,Delivered
+ORD00023,2025-02-04,CUST0017,Amit,Mumbai,Maharashtra,Laptop,Electronics,1,56442.13,56442.13,UPI,Delivered
+ORD00024,2025-03-09,CUST0293,Aditya,Jaipur,Rajasthan,Headphones,Accessories,1,2492.71,2492.71,Net Banking,Cancelled
+ORD00025,2025-12-04,CUST0221,Pooja,Mumbai,Maharashtra,Monitor,Electronics,3,13133.15,39399.45,Net Banking,Delivered
+ORD00026,2025-11-27,CUST0051,Priya,Kolkata,West Bengal,Monitor,Electronics,3,12751.68,38255.04,Net Banking,Returned
+ORD00027,2025-03-13,CUST0217,Anjali,Delhi,Delhi,Mobile Phone,Electronics,1,20636.92,20636.92,Debit Card,Delivered
+ORD00028,2025-02-20,CUST0026,Meena,Ahmedabad,Gujarat,Headphones,Accessories,3,2287.69,6863.07,UPI,Cancelled
+ORD00029,2025-07-25,CUST0031,Anjali,Hyderabad,Telangana,Headphones,Accessories,1,2492.82,2492.82,Net Banking,Delivered
+ORD00030,2025-05-27,CUST0217,Meena,Bangalore,Karnataka,Mouse,Accessories,1,951.13,951.13,Net Banking,Delivered
+ORD00031,2025-10-05,CUST0032,Amit,Chennai,Tamil Nadu,Headphones,Accessories,1,2734.35,2734.35,UPI,Cancelled
+ORD00032,2025-03-22,CUST0030,Suresh,Bangalore,Karnataka,Desk,Furniture,1,13006.53,13006.53,UPI,Cancelled
+ORD00033,2025-07-26,CUST0062,Aditya,Chennai,Tamil Nadu,Mobile Phone,Electronics,2,22770.94,45541.88,Credit Card,Delivered
+ORD00034,2025-10-26,CUST0290,Suresh,Kochi,Kerala,Desk,Furniture,1,10996.76,10996.76,Debit Card,Returned
+ORD00035,2025-07-22,CUST0068,Sneha,Pune,Maharashtra,Headphones,Accessories,2,2407.09,4814.18,Net Banking,Delivered
+ORD00036,2025-02-21,CUST0038,Meena,Delhi,Delhi,Mobile Phone,Electronics,1,22533.1,22533.1,Credit Card,Cancelled
+ORD00037,2025-05-06,CUST0190,Sneha,Jaipur,Rajasthan,Smartwatch,Accessories,1,4849.01,4849.01,Credit Card,Delivered
+ORD00038,2025-09-28,CUST0005,Meena,Ahmedabad,Gujarat,Office Chair,Furniture,2,9201.02,18402.04,Debit Card,Returned
+ORD00039,2025-10-11,CUST0080,Vijay,Hyderabad,Telangana,Tablet,Electronics,1,19402.97,19402.97,Debit Card,Returned
+ORD00040,2025-05-16,CUST0259,Kavya,Kochi,Kerala,Headphones,Accessories,2,2351.8,4703.6,Debit Card,Returned
+ORD00041,2025-01-02,CUST0171,Kiran,Bangalore,Karnataka,Mobile Phone,Electronics,2,23449.13,46898.26,Debit Card,Delivered
+ORD00042,2025-01-05,CUST0058,Arun,Chennai,Tamil Nadu,Power Bank,Accessories,1,1561.7,1561.7,Credit Card,Cancelled
+ORD00043,2025-08-09,CUST0066,Priya,Jaipur,Rajasthan,Laptop,Electronics,3,55907.61,167722.83,Debit Card,Delivered
+ORD00044,2025-12-08,CUST0053,Pooja,Delhi,Delhi,Laptop,Electronics,3,51810.84,155432.52,Cash on Delivery,Delivered
+ORD00045,2025-03-25,CUST0091,Divya,Kolkata,West Bengal,Desk,Furniture,2,13021.83,26043.66,UPI,Delivered
+ORD00046,2025-12-09,CUST0128,Vijay,Chennai,Tamil Nadu,Power Bank,Accessories,4,1584.72,6338.88,Credit Card,Delivered
+ORD00047,2025-04-13,CUST0236,Pooja,Hyderabad,Telangana,Mouse,Accessories,3,964.55,2893.65,Debit Card,Delivered
+ORD00048,2025-05-23,CUST0036,Vijay,Mumbai,Maharashtra,Headphones,Accessories,1,2346.56,2346.56,Debit Card,Delivered
+ORD00049,2025-01-15,CUST0060,Vijay,Jaipur,Rajasthan,Mouse,Accessories,2,961.86,1923.72,Credit Card,Delivered
+ORD00050,2025-06-10,CUST0224,Swathi,Kochi,Kerala,Smartwatch,Accessories,1,5096.57,5096.57,Cash on Delivery,Delivered
+ORD00051,2025-12-29,CUST0224,Ravi,Hyderabad,Telangana,Mouse,Accessories,3,844.21,2532.63,Cash on Delivery,Delivered
+ORD00052,2025-04-11,CUST0187,Divya,Jaipur,Rajasthan,Backpack,Lifestyle,2,1887.1,3774.2,UPI,Returned
+ORD00053,2025-06-03,CUST0260,Sneha,Delhi,Delhi,Desk,Furniture,1,12835.24,12835.24,Net Banking,Returned
+ORD00054,2025-08-04,CUST0195,Anjali,Delhi,Delhi,Mouse,Accessories,2,909.79,1819.58,Cash on Delivery,Delivered
+ORD00055,2025-05-27,CUST0108,Divya,Kochi,Kerala,Smartwatch,Accessories,1,5333.73,5333.73,Cash on Delivery,Delivered
+ORD00056,2025-04-20,CUST0262,Kavya,Kochi,Kerala,Backpack,Lifestyle,1,1779.04,1779.04,Credit Card,Returned
+ORD00057,2025-02-17,CUST0121,Sneha,Hyderabad,Telangana,Smartwatch,Accessories,1,5132.94,5132.94,Credit Card,Delivered
+ORD00058,2025-11-09,CUST0038,Nikhil,Mumbai,Maharashtra,Tablet,Electronics,1,17081.43,17081.43,Net Banking,Delivered
+ORD00059,2025-05-05,CUST0076,Ravi,Kochi,Kerala,Headphones,Accessories,2,2441.99,4883.98,UPI,Delivered
+ORD00060,2025-08-26,CUST0026,Meena,Kolkata,West Bengal,Headphones,Accessories,1,2728.98,2728.98,Credit Card,Cancelled
+ORD00061,2025-10-14,CUST0163,Nikhil,Hyderabad,Telangana,Monitor,Electronics,1,13901.0,13901.0,Cash on Delivery,Cancelled
+ORD00062,2025-09-01,CUST0231,Vijay,Jaipur,Rajasthan,Mouse,Accessories,3,908.62,2725.86,Credit Card,Delivered
+ORD00063,2025-02-09,CUST0147,Neha,Pune,Maharashtra,Office Chair,Furniture,1,8530.64,8530.64,Debit Card,Delivered
+ORD00064,2025-04-29,CUST0197,Kiran,Delhi,Delhi,Keyboard,Accessories,3,1649.01,4947.03,Credit Card,Delivered
+ORD00065,2025-02-01,CUST0106,Divya,Hyderabad,Telangana,Mouse,Accessories,1,907.67,907.67,Net Banking,Delivered
+ORD00066,2025-07-14,CUST0245,Ravi,Kochi,Kerala,Power Bank,Accessories,1,1614.2,1614.2,Debit Card,Cancelled
+ORD00067,2025-10-03,CUST0280,Swathi,Pune,Maharashtra,Mouse,Accessories,3,981.62,2944.86,Credit Card,Delivered
+ORD00068,2025-06-22,CUST0208,Anjali,Ahmedabad,Gujarat,Headphones,Accessories,1,2492.82,2492.82,Net Banking,Delivered
+ORD00069,2025-10-16,CUST0014,Arun,Chennai,Tamil Nadu,Desk,Furniture,1,12976.63,12976.63,Net Banking,Cancelled
+ORD00070,2025-04-19,CUST0233,Amit,Chennai,Tamil Nadu,Monitor,Electronics,1,13328.44,13328.44,Debit Card,Delivered
+ORD00071,2025-02-11,CUST0241,Ravi,Kolkata,West Bengal,Smartwatch,Accessories,2,5331.92,10663.84,Cash on Delivery,Delivered
+ORD00072,2025-01-21,CUST0016,Neha,Bangalore,Karnataka,Keyboard,Accessories,1,1644.7,1644.7,Credit Card,Returned
+ORD00073,2025-02-28,CUST0289,Rahul,Bangalore,Karnataka,Desk,Furniture,1,11102.93,11102.93,Net Banking,Returned
+ORD00074,2025-02-28,CUST0084,Sneha,Pune,Maharashtra,Keyboard,Accessories,1,1838.61,1838.61,UPI,Returned
+ORD00075,2025-07-23,CUST0102,Arun,Kochi,Kerala,Laptop,Electronics,4,55833.76,223335.04,Cash on Delivery,Delivered
+ORD00076,2025-11-04,CUST0062,Aditya,Mumbai,Maharashtra,Mobile Phone,Electronics,2,21126.96,42253.92,UPI,Returned
+ORD00077,2025-11-28,CUST0175,Ravi,Delhi,Delhi,Office Chair,Furniture,1,8767.03,8767.03,Net Banking,Cancelled
+ORD00078,2025-12-29,CUST0079,Divya,Ahmedabad,Gujarat,Mobile Phone,Electronics,1,21393.63,21393.63,Credit Card,Delivered
+ORD00079,2025-09-05,CUST0239,Divya,Jaipur,Rajasthan,Backpack,Lifestyle,1,1910.95,1910.95,Cash on Delivery,Cancelled
+ORD00080,2025-05-23,CUST0231,Neha,Pune,Maharashtra,Keyboard,Accessories,3,1919.06,5757.18,Net Banking,Delivered
+ORD00081,2025-06-16,CUST0094,Kavya,Kochi,Kerala,Desk,Furniture,2,11607.35,23214.7,Credit Card,Delivered
+ORD00082,2025-05-22,CUST0285,Ravi,Delhi,Delhi,Smartwatch,Accessories,1,5380.32,5380.32,Cash on Delivery,Returned
+ORD00083,2025-05-04,CUST0244,Kavya,Mumbai,Maharashtra,Mobile Phone,Electronics,1,21588.28,21588.28,Net Banking,Cancelled
+ORD00084,2025-06-06,CUST0298,Pooja,Bangalore,Karnataka,Mobile Phone,Electronics,1,21579.36,21579.36,Net Banking,Delivered
+ORD00085,2025-06-19,CUST0181,Nikhil,Jaipur,Rajasthan,Office Chair,Furniture,1,9893.94,9893.94,Debit Card,Cancelled
+ORD00086,2025-03-03,CUST0275,Anjali,Pune,Maharashtra,Smartwatch,Accessories,1,5221.28,5221.28,Credit Card,Delivered
+ORD00087,2025-11-02,CUST0145,Sita,Mumbai,Maharashtra,Power Bank,Accessories,1,1567.38,1567.38,Credit Card,Cancelled
+ORD00088,2025-10-01,CUST0065,Vijay,Pune,Maharashtra,Headphones,Accessories,1,2401.13,2401.13,UPI,Returned
+ORD00089,2025-09-09,CUST0053,Ravi,Bangalore,Karnataka,Office Chair,Furniture,1,9799.36,9799.36,Cash on Delivery,Returned
+ORD00090,2025-05-10,CUST0245,Sita,Pune,Maharashtra,Monitor,Electronics,1,13553.98,13553.98,UPI,Delivered
+ORD00091,2025-03-19,CUST0077,Aditya,Kolkata,West Bengal,Monitor,Electronics,1,14362.45,14362.45,Debit Card,Delivered
+ORD00092,2025-11-02,CUST0116,Suresh,Hyderabad,Telangana,Headphones,Accessories,1,2632.22,2632.22,Net Banking,Cancelled
+ORD00093,2025-06-06,CUST0292,Swathi,Ahmedabad,Gujarat,Monitor,Electronics,1,14247.87,14247.87,UPI,Delivered
+ORD00094,2025-04-19,CUST0136,Arun,Kochi,Kerala,Power Bank,Accessories,1,1578.82,1578.82,Credit Card,Returned
+ORD00095,2025-08-19,CUST0241,Sneha,Mumbai,Maharashtra,Tablet,Electronics,2,16763.52,33527.04,UPI,Delivered
+ORD00096,2025-02-06,CUST0120,Vijay,Mumbai,Maharashtra,Smartwatch,Accessories,2,5202.99,10405.98,Cash on Delivery,Delivered
+ORD00097,2025-05-17,CUST0073,Arun,Mumbai,Maharashtra,Mouse,Accessories,1,850.47,850.47,UPI,Delivered
+ORD00098,2025-08-13,CUST0064,Nikhil,Chennai,Tamil Nadu,Smartwatch,Accessories,2,5324.24,10648.48,Debit Card,Delivered
+ORD00099,2025-11-03,CUST0021,Divya,Kolkata,West Bengal,Smartwatch,Accessories,1,4993.8,4993.8,Debit Card,Delivered
+ORD00100,2025-10-22,CUST0011,Vijay,Kochi,Kerala,Smartwatch,Accessories,1,4728.92,4728.92,Cash on Delivery,Returned
+ORD00101,2025-04-03,CUST0300,Divya,Bangalore,Karnataka,Tablet,Electronics,1,18545.43,18545.43,Net Banking,Delivered
+ORD00102,2025-02-23,CUST0083,Amit,Hyderabad,Telangana,Monitor,Electronics,1,13533.26,13533.26,Net Banking,Returned
+ORD00103,2025-01-19,CUST0233,Arun,Ahmedabad,Gujarat,Smartwatch,Accessories,2,4900.45,9800.9,Debit Card,Cancelled
+ORD00104,2025-01-01,CUST0278,Nikhil,Pune,Maharashtra,Keyboard,Accessories,1,1898.12,1898.12,Net Banking,Cancelled
+ORD00105,2025-11-17,CUST0227,Priya,Bangalore,Karnataka,Headphones,Accessories,1,2561.32,2561.32,Credit Card,Delivered
+ORD00106,2025-09-06,CUST0063,Ravi,Pune,Maharashtra,Office Chair,Furniture,1,8618.45,8618.45,Cash on Delivery,Returned
+ORD00107,2025-07-28,CUST0048,Neha,Mumbai,Maharashtra,Power Bank,Accessories,1,1515.25,1515.25,UPI,Cancelled
+ORD00108,2025-05-30,CUST0261,Vijay,Ahmedabad,Gujarat,Mobile Phone,Electronics,2,20477.47,40954.94,Net Banking,Returned
+ORD00109,2025-04-08,CUST0261,Kiran,Ahmedabad,Gujarat,Monitor,Electronics,1,14143.54,14143.54,UPI,Delivered
+ORD00110,2025-01-02,CUST0145,Sneha,Pune,Maharashtra,Mouse,Accessories,1,951.79,951.79,Cash on Delivery,Delivered
+ORD00111,2025-09-05,CUST0177,Amit,Kochi,Kerala,Backpack,Lifestyle,1,1673.49,1673.49,Cash on Delivery,Cancelled
+ORD00112,2025-12-24,CUST0123,Aditya,Jaipur,Rajasthan,Mouse,Accessories,1,867.92,867.92,Net Banking,Delivered
+ORD00113,2025-07-15,CUST0198,Kiran,Mumbai,Maharashtra,Mouse,Accessories,1,944.05,944.05,Net Banking,Returned
+ORD00114,2025-08-14,CUST0052,Suresh,Bangalore,Karnataka,Tablet,Electronics,1,18324.65,18324.65,Net Banking,Delivered
+ORD00115,2025-02-08,CUST0241,Vijay,Bangalore,Karnataka,Power Bank,Accessories,1,1611.28,1611.28,Debit Card,Delivered
+ORD00116,2025-12-12,CUST0274,Rohit,Kochi,Kerala,Power Bank,Accessories,1,1374.09,1374.09,Debit Card,Delivered
+ORD00117,2025-12-17,CUST0148,Neha,Ahmedabad,Gujarat,Office Chair,Furniture,1,8223.16,8223.16,UPI,Returned
+ORD00118,2025-08-16,CUST0086,Sneha,Kolkata,West Bengal,Mobile Phone,Electronics,2,22897.12,45794.24,UPI,Delivered
+ORD00119,2025-08-09,CUST0075,Neha,Bangalore,Karnataka,Keyboard,Accessories,2,1725.61,3451.22,Cash on Delivery,Delivered
+ORD00120,2025-02-10,CUST0196,Swathi,Kolkata,West Bengal,Desk,Furniture,2,11232.14,22464.28,Credit Card,Delivered
+ORD00121,2025-08-24,CUST0131,Ravi,Ahmedabad,Gujarat,Desk,Furniture,1,11906.76,11906.76,Net Banking,Delivered
+ORD00122,2025-10-28,CUST0154,Divya,Pune,Maharashtra,Backpack,Lifestyle,1,1646.59,1646.59,Debit Card,Delivered
+ORD00123,2025-02-24,CUST0122,Rohit,Ahmedabad,Gujarat,Smartwatch,Accessories,1,4884.69,4884.69,Cash on Delivery,Delivered
+ORD00124,2025-12-04,CUST0203,Vijay,Delhi,Delhi,Desk,Furniture,1,12478.27,12478.27,UPI,Delivered
+ORD00125,2025-09-12,CUST0147,Neha,Kochi,Kerala,Backpack,Lifestyle,2,1970.5,3941.0,Cash on Delivery,Cancelled
+ORD00126,2025-12-04,CUST0071,Sita,Delhi,Delhi,Headphones,Accessories,2,2560.45,5120.9,UPI,Returned
+ORD00127,2025-02-16,CUST0152,Amit,Pune,Maharashtra,Monitor,Electronics,1,13621.61,13621.61,Net Banking,Delivered
+ORD00128,2025-09-29,CUST0257,Vijay,Chennai,Tamil Nadu,Headphones,Accessories,1,2519.7,2519.7,Credit Card,Delivered
+ORD00129,2025-02-28,CUST0240,Arun,Pune,Maharashtra,Monitor,Electronics,4,13426.4,53705.6,Credit Card,Delivered
+ORD00130,2025-07-07,CUST0047,Rohit,Mumbai,Maharashtra,Backpack,Lifestyle,2,1972.78,3945.56,UPI,Cancelled
+ORD00131,2025-12-11,CUST0135,Aditya,Pune,Maharashtra,Office Chair,Furniture,1,8763.45,8763.45,Net Banking,Returned
+ORD00132,2025-10-15,CUST0168,Swathi,Delhi,Delhi,Mobile Phone,Electronics,2,21874.5,43749.0,Credit Card,Cancelled
+ORD00133,2025-11-29,CUST0210,Sita,Hyderabad,Telangana,Backpack,Lifestyle,3,1947.38,5842.14,Credit Card,Delivered
+ORD00134,2025-05-01,CUST0276,Kiran,Bangalore,Karnataka,Laptop,Electronics,1,54918.87,54918.87,Net Banking,Delivered
+ORD00135,2025-08-03,CUST0080,Divya,Ahmedabad,Gujarat,Keyboard,Accessories,2,1887.53,3775.06,UPI,Cancelled
+ORD00136,2025-12-20,CUST0190,Rahul,Ahmedabad,Gujarat,Desk,Furniture,1,13083.65,13083.65,Net Banking,Delivered
+ORD00137,2025-07-08,CUST0279,Pooja,Ahmedabad,Gujarat,Headphones,Accessories,3,2299.68,6899.04,UPI,Returned
+ORD00138,2025-02-16,CUST0109,Swathi,Kolkata,West Bengal,Smartwatch,Accessories,1,4622.16,4622.16,UPI,Delivered
+ORD00139,2025-04-16,CUST0036,Meena,Bangalore,Karnataka,Keyboard,Accessories,1,1665.33,1665.33,Credit Card,Cancelled
+ORD00140,2025-11-02,CUST0002,Vijay,Kochi,Kerala,Headphones,Accessories,3,2366.5,7099.5,Credit Card,Delivered
+ORD00141,2025-01-14,CUST0068,Ravi,Chennai,Tamil Nadu,Office Chair,Furniture,1,8414.09,8414.09,Debit Card,Returned
+ORD00142,2025-03-06,CUST0216,Suresh,Mumbai,Maharashtra,Desk,Furniture,1,11218.19,11218.19,UPI,Delivered
+ORD00143,2025-02-25,CUST0232,Suresh,Hyderabad,Telangana,Monitor,Electronics,1,13613.71,13613.71,Credit Card,Cancelled
+ORD00144,2025-09-24,CUST0155,Nikhil,Kochi,Kerala,Laptop,Electronics,2,59496.27,118992.54,UPI,Returned
+ORD00145,2025-09-09,CUST0228,Arun,Bangalore,Karnataka,Monitor,Electronics,3,13793.57,41380.71,UPI,Delivered
+ORD00146,2025-11-21,CUST0300,Meena,Delhi,Delhi,Desk,Furniture,1,11102.86,11102.86,Debit Card,Cancelled
+ORD00147,2025-08-09,CUST0051,Sita,Kolkata,West Bengal,Desk,Furniture,1,11888.92,11888.92,Cash on Delivery,Cancelled
+ORD00148,2025-08-21,CUST0205,Divya,Mumbai,Maharashtra,Mouse,Accessories,1,851.13,851.13,UPI,Delivered
+ORD00149,2025-12-18,CUST0243,Arun,Delhi,Delhi,Mouse,Accessories,1,855.88,855.88,UPI,Delivered
+ORD00150,2025-03-08,CUST0285,Priya,Hyderabad,Telangana,Mobile Phone,Electronics,1,23076.19,23076.19,Cash on Delivery,Delivered
+ORD00151,2025-12-07,CUST0217,Priya,Jaipur,Rajasthan,Office Chair,Furniture,1,8320.02,8320.02,Debit Card,Delivered
+ORD00152,2025-03-21,CUST0247,Neha,Kochi,Kerala,Smartwatch,Accessories,1,5077.92,5077.92,UPI,Delivered
+ORD00153,2025-04-26,CUST0220,Meena,Delhi,Delhi,Office Chair,Furniture,1,9472.69,9472.69,Cash on Delivery,Cancelled
+ORD00154,2025-12-22,CUST0137,Ravi,Kochi,Kerala,Backpack,Lifestyle,2,1629.45,3258.9,Credit Card,Returned
+ORD00155,2025-01-04,CUST0093,Kiran,Pune,Maharashtra,Power Bank,Accessories,2,1626.46,3252.92,Cash on Delivery,Delivered
+ORD00156,2025-02-16,CUST0272,Rahul,Kolkata,West Bengal,Mobile Phone,Electronics,1,22585.96,22585.96,Net Banking,Delivered
+ORD00157,2025-06-16,CUST0291,Swathi,Kolkata,West Bengal,Monitor,Electronics,1,13636.15,13636.15,UPI,Returned
+ORD00158,2025-02-11,CUST0140,Nikhil,Bangalore,Karnataka,Tablet,Electronics,1,18424.22,18424.22,Net Banking,Returned
+ORD00159,2025-02-28,CUST0177,Divya,Ahmedabad,Gujarat,Desk,Furniture,1,11455.6,11455.6,UPI,Cancelled
+ORD00160,2025-06-07,CUST0024,Neha,Pune,Maharashtra,Backpack,Lifestyle,2,1795.19,3590.38,Net Banking,Returned
+ORD00161,2025-03-12,CUST0131,Sneha,Kochi,Kerala,Laptop,Electronics,1,52815.61,52815.61,Debit Card,Delivered
+ORD00162,2025-07-14,CUST0273,Neha,Hyderabad,Telangana,Laptop,Electronics,1,54237.21,54237.21,Cash on Delivery,Delivered
+ORD00163,2025-01-22,CUST0224,Ravi,Jaipur,Rajasthan,Backpack,Lifestyle,3,1645.95,4937.85,Net Banking,Returned
+ORD00164,2025-11-24,CUST0214,Sneha,Hyderabad,Telangana,Keyboard,Accessories,2,1826.42,3652.84,UPI,Returned
+ORD00165,2025-08-24,CUST0186,Arun,Kolkata,West Bengal,Laptop,Electronics,4,51390.6,205562.4,Net Banking,Cancelled
+ORD00166,2025-07-22,CUST0159,Amit,Hyderabad,Telangana,Headphones,Accessories,1,2450.22,2450.22,Credit Card,Delivered
+ORD00167,2025-09-19,CUST0100,Pooja,Delhi,Delhi,Tablet,Electronics,1,18479.61,18479.61,Debit Card,Cancelled
+ORD00168,2025-11-05,CUST0079,Arun,Chennai,Tamil Nadu,Headphones,Accessories,1,2377.98,2377.98,Credit Card,Delivered
+ORD00169,2025-12-15,CUST0290,Swathi,Ahmedabad,Gujarat,Monitor,Electronics,2,14727.66,29455.32,Debit Card,Delivered
+ORD00170,2025-06-05,CUST0141,Aditya,Delhi,Delhi,Tablet,Electronics,1,17888.12,17888.12,UPI,Returned
+ORD00171,2025-01-30,CUST0189,Sneha,Delhi,Delhi,Office Chair,Furniture,1,8931.14,8931.14,UPI,Delivered
+ORD00172,2025-10-11,CUST0022,Nikhil,Hyderabad,Telangana,Desk,Furniture,2,11722.76,23445.52,Cash on Delivery,Cancelled
+ORD00173,2025-08-19,CUST0053,Amit,Mumbai,Maharashtra,Keyboard,Accessories,2,1800.49,3600.98,UPI,Delivered
+ORD00174,2025-08-13,CUST0269,Suresh,Jaipur,Rajasthan,Backpack,Lifestyle,1,1709.19,1709.19,Cash on Delivery,Delivered
+ORD00175,2025-06-23,CUST0027,Amit,Chennai,Tamil Nadu,Keyboard,Accessories,1,1721.84,1721.84,UPI,Delivered
+ORD00176,2025-12-03,CUST0077,Amit,Delhi,Delhi,Mobile Phone,Electronics,2,21500.88,43001.76,UPI,Delivered
+ORD00177,2025-12-24,CUST0201,Kiran,Kochi,Kerala,Backpack,Lifestyle,1,1745.94,1745.94,Cash on Delivery,Returned
+ORD00178,2025-03-07,CUST0270,Arun,Hyderabad,Telangana,Smartwatch,Accessories,2,5143.49,10286.98,Net Banking,Delivered
+ORD00179,2025-06-24,CUST0249,Rahul,Jaipur,Rajasthan,Keyboard,Accessories,1,1731.19,1731.19,Credit Card,Delivered
+ORD00180,2025-09-17,CUST0277,Suresh,Chennai,Tamil Nadu,Tablet,Electronics,1,19239.94,19239.94,UPI,Delivered
+ORD00181,2025-04-03,CUST0085,Nikhil,Delhi,Delhi,Desk,Furniture,1,11704.13,11704.13,UPI,Delivered
+ORD00182,2025-11-09,CUST0146,Nikhil,Kolkata,West Bengal,Keyboard,Accessories,2,1705.51,3411.02,Credit Card,Delivered
+ORD00183,2025-04-10,CUST0189,Aditya,Jaipur,Rajasthan,Headphones,Accessories,1,2654.31,2654.31,Net Banking,Delivered
+ORD00184,2025-03-24,CUST0103,Swathi,Ahmedabad,Gujarat,Smartwatch,Accessories,2,5002.91,10005.82,Credit Card,Delivered
+ORD00185,2025-02-22,CUST0265,Sita,Pune,Maharashtra,Laptop,Electronics,2,59115.29,118230.58,Debit Card,Cancelled
+ORD00186,2025-08-12,CUST0047,Neha,Hyderabad,Telangana,Tablet,Electronics,1,19459.1,19459.1,Net Banking,Delivered
+ORD00187,2025-05-01,CUST0198,Arun,Delhi,Delhi,Laptop,Electronics,1,53860.99,53860.99,Debit Card,Delivered
+ORD00188,2025-11-29,CUST0172,Kiran,Mumbai,Maharashtra,Laptop,Electronics,1,50589.91,50589.91,Credit Card,Returned
+ORD00189,2025-12-28,CUST0241,Nikhil,Bangalore,Karnataka,Smartwatch,Accessories,3,4972.45,14917.35,Cash on Delivery,Delivered
+ORD00190,2025-10-08,CUST0271,Divya,Bangalore,Karnataka,Mobile Phone,Electronics,1,20748.88,20748.88,UPI,Delivered
+ORD00191,2025-11-24,CUST0235,Arun,Pune,Maharashtra,Headphones,Accessories,1,2273.87,2273.87,UPI,Delivered
+ORD00192,2025-05-04,CUST0074,Sneha,Ahmedabad,Gujarat,Desk,Furniture,1,12316.69,12316.69,Net Banking,Cancelled
+ORD00193,2025-12-07,CUST0044,Suresh,Bangalore,Karnataka,Desk,Furniture,1,12169.59,12169.59,Debit Card,Delivered
+ORD00194,2025-10-11,CUST0011,Rohit,Hyderabad,Telangana,Office Chair,Furniture,1,9515.54,9515.54,Net Banking,Cancelled
+ORD00195,2025-01-09,CUST0183,Arun,Bangalore,Karnataka,Backpack,Lifestyle,1,1754.39,1754.39,Debit Card,Returned
+ORD00196,2025-06-20,CUST0069,Priya,Mumbai,Maharashtra,Power Bank,Accessories,2,1381.1,2762.2,Debit Card,Cancelled
+ORD00197,2025-08-26,CUST0246,Anjali,Jaipur,Rajasthan,Keyboard,Accessories,3,1683.03,5049.09,Credit Card,Returned
+ORD00198,2025-04-14,CUST0023,Rahul,Hyderabad,Telangana,Power Bank,Accessories,2,1487.3,2974.6,UPI,Delivered
+ORD00199,2025-08-31,CUST0130,Priya,Delhi,Delhi,Smartwatch,Accessories,1,5489.12,5489.12,Credit Card,Cancelled
+ORD00200,2025-06-19,CUST0140,Sita,Pune,Maharashtra,Keyboard,Accessories,3,1637.21,4911.63,Debit Card,Returned
+ORD00201,2025-06-23,CUST0096,Kavya,Kolkata,West Bengal,Mouse,Accessories,2,971.03,1942.06,Net Banking,Delivered
+ORD00202,2025-02-10,CUST0221,Swathi,Delhi,Delhi,Office Chair,Furniture,1,8248.7,8248.7,Credit Card,Delivered
+ORD00203,2025-06-01,CUST0157,Nikhil,Jaipur,Rajasthan,Smartwatch,Accessories,1,4580.07,4580.07,Cash on Delivery,Returned
+ORD00204,2025-06-30,CUST0223,Vijay,Kolkata,West Bengal,Tablet,Electronics,2,17465.57,34931.14,UPI,Delivered
+ORD00205,2025-12-14,CUST0082,Ravi,Hyderabad,Telangana,Backpack,Lifestyle,2,1750.79,3501.58,Credit Card,Returned
+ORD00206,2025-05-01,CUST0188,Pooja,Kochi,Kerala,Backpack,Lifestyle,2,1632.53,3265.06,Net Banking,Delivered
+ORD00207,2025-07-10,CUST0228,Arun,Kochi,Kerala,Laptop,Electronics,2,56969.68,113939.36,Cash on Delivery,Delivered
+ORD00208,2025-05-08,CUST0059,Ravi,Chennai,Tamil Nadu,Office Chair,Furniture,1,8665.89,8665.89,Credit Card,Delivered
+ORD00209,2025-05-14,CUST0229,Rahul,Ahmedabad,Gujarat,Office Chair,Furniture,1,9111.01,9111.01,Cash on Delivery,Delivered
+ORD00210,2025-03-11,CUST0038,Nikhil,Pune,Maharashtra,Power Bank,Accessories,3,1497.36,4492.08,Credit Card,Delivered
+ORD00211,2025-12-08,CUST0178,Arun,Ahmedabad,Gujarat,Mobile Phone,Electronics,3,24057.27,72171.81,Cash on Delivery,Delivered
+ORD00212,2025-12-30,CUST0090,Pooja,Jaipur,Rajasthan,Smartwatch,Accessories,3,5351.36,16054.08,Cash on Delivery,Returned
+ORD00213,2025-09-10,CUST0014,Pooja,Mumbai,Maharashtra,Mobile Phone,Electronics,5,23285.09,116425.45,Cash on Delivery,Delivered
+ORD00214,2025-11-10,CUST0045,Arun,Kochi,Kerala,Keyboard,Accessories,1,1973.88,1973.88,Debit Card,Delivered
+ORD00215,2025-10-22,CUST0038,Kiran,Kolkata,West Bengal,Power Bank,Accessories,2,1507.71,3015.42,Debit Card,Delivered
+ORD00216,2025-10-10,CUST0094,Kiran,Hyderabad,Telangana,Monitor,Electronics,1,14048.61,14048.61,Net Banking,Delivered
+ORD00217,2025-03-26,CUST0083,Amit,Jaipur,Rajasthan,Laptop,Electronics,3,55199.12,165597.36,Credit Card,Delivered
+ORD00218,2025-04-11,CUST0283,Vijay,Delhi,Delhi,Office Chair,Furniture,3,9622.68,28868.04,Credit Card,Delivered
+ORD00219,2025-10-31,CUST0298,Kiran,Pune,Maharashtra,Desk,Furniture,1,12006.18,12006.18,Credit Card,Delivered
+ORD00220,2025-01-22,CUST0015,Arun,Kochi,Kerala,Power Bank,Accessories,3,1451.29,4353.87,UPI,Cancelled
+ORD00221,2025-11-13,CUST0016,Kavya,Kochi,Kerala,Smartwatch,Accessories,2,5266.96,10533.92,Cash on Delivery,Delivered
+ORD00222,2025-07-27,CUST0153,Nikhil,Pune,Maharashtra,Backpack,Lifestyle,4,1793.86,7175.44,UPI,Returned
+ORD00223,2025-06-24,CUST0074,Amit,Bangalore,Karnataka,Tablet,Electronics,1,17943.3,17943.3,Debit Card,Delivered
+ORD00224,2025-02-24,CUST0164,Neha,Delhi,Delhi,Mouse,Accessories,1,876.7,876.7,Net Banking,Cancelled
+ORD00225,2025-05-29,CUST0197,Swathi,Hyderabad,Telangana,Smartwatch,Accessories,1,4640.88,4640.88,Net Banking,Delivered
+ORD00226,2025-06-10,CUST0098,Anjali,Mumbai,Maharashtra,Tablet,Electronics,3,19561.51,58684.53,Net Banking,Returned
+ORD00227,2025-02-16,CUST0202,Suresh,Jaipur,Rajasthan,Monitor,Electronics,1,13463.91,13463.91,Net Banking,Delivered
+ORD00228,2025-09-11,CUST0241,Sneha,Mumbai,Maharashtra,Headphones,Accessories,2,2274.33,4548.66,Cash on Delivery,Delivered
+ORD00229,2025-07-07,CUST0207,Pooja,Bangalore,Karnataka,Mobile Phone,Electronics,1,23682.81,23682.81,UPI,Returned
+ORD00230,2025-05-28,CUST0038,Rohit,Kolkata,West Bengal,Laptop,Electronics,2,51641.21,103282.42,Cash on Delivery,Cancelled
+ORD00231,2025-11-09,CUST0061,Kiran,Ahmedabad,Gujarat,Office Chair,Furniture,1,9880.36,9880.36,UPI,Returned
+ORD00232,2025-03-15,CUST0102,Swathi,Kolkata,West Bengal,Keyboard,Accessories,2,1742.07,3484.14,Cash on Delivery,Delivered
+ORD00233,2025-06-20,CUST0243,Suresh,Kolkata,West Bengal,Office Chair,Furniture,1,8170.05,8170.05,Net Banking,Returned
+ORD00234,2025-06-13,CUST0084,Rohit,Chennai,Tamil Nadu,Desk,Furniture,3,11135.47,33406.41,Cash on Delivery,Cancelled
+ORD00235,2025-09-08,CUST0289,Sneha,Pune,Maharashtra,Desk,Furniture,1,12787.89,12787.89,Net Banking,Cancelled
+ORD00236,2025-10-26,CUST0158,Ravi,Bangalore,Karnataka,Keyboard,Accessories,1,1659.46,1659.46,Cash on Delivery,Delivered
+ORD00237,2025-10-23,CUST0117,Priya,Ahmedabad,Gujarat,Smartwatch,Accessories,4,5282.9,21131.6,Cash on Delivery,Cancelled
+ORD00238,2025-03-17,CUST0125,Priya,Ahmedabad,Gujarat,Tablet,Electronics,1,18796.26,18796.26,Cash on Delivery,Delivered
+ORD00239,2025-07-31,CUST0105,Divya,Hyderabad,Telangana,Headphones,Accessories,1,2406.85,2406.85,Cash on Delivery,Delivered
+ORD00240,2025-12-28,CUST0071,Suresh,Kochi,Kerala,Monitor,Electronics,3,14660.34,43981.02,Credit Card,Delivered
+ORD00241,2025-06-10,CUST0089,Nikhil,Jaipur,Rajasthan,Keyboard,Accessories,5,1792.21,8961.05,Cash on Delivery,Delivered
+ORD00242,2025-12-15,CUST0136,Swathi,Delhi,Delhi,Office Chair,Furniture,1,9489.58,9489.58,Net Banking,Returned
+ORD00243,2025-05-28,CUST0107,Kavya,Mumbai,Maharashtra,Headphones,Accessories,1,2399.25,2399.25,Debit Card,Delivered
+ORD00244,2025-05-21,CUST0148,Sita,Ahmedabad,Gujarat,Keyboard,Accessories,2,1956.41,3912.82,Cash on Delivery,Returned
+ORD00245,2025-03-16,CUST0149,Priya,Jaipur,Rajasthan,Mouse,Accessories,3,881.02,2643.06,Debit Card,Delivered
+ORD00246,2025-09-03,CUST0110,Rahul,Hyderabad,Telangana,Keyboard,Accessories,4,1856.15,7424.6,Cash on Delivery,Returned
+ORD00247,2025-10-28,CUST0123,Neha,Pune,Maharashtra,Office Chair,Furniture,2,8347.09,16694.18,UPI,Cancelled
+ORD00248,2025-06-19,CUST0242,Sita,Jaipur,Rajasthan,Headphones,Accessories,2,2276.25,4552.5,Credit Card,Delivered
+ORD00249,2025-09-01,CUST0245,Rahul,Bangalore,Karnataka,Office Chair,Furniture,4,8384.29,33537.16,Debit Card,Returned
+ORD00250,2025-11-30,CUST0294,Neha,Delhi,Delhi,Smartwatch,Accessories,2,5407.94,10815.88,Cash on Delivery,Delivered
+ORD00251,2025-07-23,CUST0254,Anjali,Bangalore,Karnataka,Tablet,Electronics,1,19215.38,19215.38,Debit Card,Delivered
+ORD00252,2025-05-26,CUST0233,Meena,Bangalore,Karnataka,Laptop,Electronics,1,56130.61,56130.61,Cash on Delivery,Delivered
+ORD00253,2025-02-27,CUST0170,Anjali,Ahmedabad,Gujarat,Tablet,Electronics,3,17884.87,53654.61,Net Banking,Delivered
+ORD00254,2025-10-18,CUST0099,Anjali,Pune,Maharashtra,Power Bank,Accessories,1,1570.99,1570.99,Cash on Delivery,Delivered
+ORD00255,2025-02-18,CUST0095,Kiran,Kolkata,West Bengal,Mouse,Accessories,1,825.61,825.61,Net Banking,Returned
+ORD00256,2025-05-17,CUST0169,Sneha,Delhi,Delhi,Headphones,Accessories,1,2441.79,2441.79,Cash on Delivery,Delivered
+ORD00257,2025-02-01,CUST0061,Nikhil,Kochi,Kerala,Laptop,Electronics,1,53455.07,53455.07,Debit Card,Delivered
+ORD00258,2025-06-09,CUST0061,Sneha,Chennai,Tamil Nadu,Mouse,Accessories,2,976.16,1952.32,Debit Card,Returned
+ORD00259,2025-08-21,CUST0192,Divya,Kochi,Kerala,Headphones,Accessories,1,2316.78,2316.78,Cash on Delivery,Delivered
+ORD00260,2025-12-15,CUST0042,Suresh,Ahmedabad,Gujarat,Office Chair,Furniture,3,9586.09,28758.27,Net Banking,Delivered
+ORD00261,2025-02-01,CUST0281,Suresh,Jaipur,Rajasthan,Power Bank,Accessories,1,1625.17,1625.17,Credit Card,Delivered
+ORD00262,2025-08-15,CUST0060,Rahul,Kochi,Kerala,Office Chair,Furniture,1,8690.61,8690.61,Cash on Delivery,Cancelled
+ORD00263,2025-08-21,CUST0068,Suresh,Ahmedabad,Gujarat,Mobile Phone,Electronics,3,21760.12,65280.36,Net Banking,Delivered
+ORD00264,2025-01-12,CUST0203,Vijay,Ahmedabad,Gujarat,Desk,Furniture,1,11909.71,11909.71,UPI,Delivered
+ORD00265,2025-02-02,CUST0278,Priya,Mumbai,Maharashtra,Desk,Furniture,1,11816.87,11816.87,UPI,Returned
+ORD00266,2025-11-25,CUST0216,Pooja,Ahmedabad,Gujarat,Laptop,Electronics,1,51479.79,51479.79,Net Banking,Delivered
+ORD00267,2025-10-04,CUST0069,Pooja,Ahmedabad,Gujarat,Mouse,Accessories,1,932.89,932.89,UPI,Returned
+ORD00268,2025-01-02,CUST0012,Sneha,Chennai,Tamil Nadu,Office Chair,Furniture,1,8329.22,8329.22,Net Banking,Delivered
+ORD00269,2025-08-24,CUST0178,Kiran,Jaipur,Rajasthan,Mouse,Accessories,1,958.2,958.2,Debit Card,Delivered
+ORD00270,2025-08-03,CUST0009,Neha,Mumbai,Maharashtra,Power Bank,Accessories,2,1359.67,2719.34,Credit Card,Returned
+ORD00271,2025-12-27,CUST0025,Neha,Hyderabad,Telangana,Mobile Phone,Electronics,2,21764.34,43528.68,UPI,Returned
+ORD00272,2025-03-13,CUST0258,Sneha,Kolkata,West Bengal,Monitor,Electronics,1,13208.35,13208.35,Credit Card,Delivered
+ORD00273,2025-05-02,CUST0155,Kiran,Kochi,Kerala,Keyboard,Accessories,2,1898.11,3796.22,Cash on Delivery,Delivered
+ORD00274,2025-03-31,CUST0219,Meena,Mumbai,Maharashtra,Mouse,Accessories,1,820.97,820.97,Net Banking,Cancelled
+ORD00275,2025-06-13,CUST0214,Divya,Bangalore,Karnataka,Keyboard,Accessories,4,1861.68,7446.72,Credit Card,Cancelled
+ORD00276,2025-04-26,CUST0154,Kiran,Pune,Maharashtra,Mouse,Accessories,1,906.83,906.83,Net Banking,Delivered
+ORD00277,2025-03-10,CUST0199,Neha,Bangalore,Karnataka,Office Chair,Furniture,1,8849.71,8849.71,Debit Card,Cancelled
+ORD00278,2025-02-17,CUST0275,Rahul,Mumbai,Maharashtra,Keyboard,Accessories,2,1952.0,3904.0,UPI,Delivered
+ORD00279,2025-04-07,CUST0287,Rahul,Pune,Maharashtra,Mouse,Accessories,2,918.53,1837.06,Net Banking,Delivered
+ORD00280,2025-04-08,CUST0061,Kavya,Mumbai,Maharashtra,Keyboard,Accessories,1,1947.24,1947.24,Credit Card,Delivered
+ORD00281,2025-06-14,CUST0145,Rohit,Kochi,Kerala,Power Bank,Accessories,1,1624.54,1624.54,Net Banking,Cancelled
+ORD00282,2025-09-12,CUST0239,Sita,Jaipur,Rajasthan,Backpack,Lifestyle,1,1714.16,1714.16,Net Banking,Cancelled
+ORD00283,2025-04-24,CUST0075,Ravi,Delhi,Delhi,Headphones,Accessories,1,2456.97,2456.97,Debit Card,Cancelled
+ORD00284,2025-04-11,CUST0169,Neha,Jaipur,Rajasthan,Desk,Furniture,2,11802.19,23604.38,Net Banking,Delivered
+ORD00285,2025-06-22,CUST0132,Kavya,Kochi,Kerala,Headphones,Accessories,1,2577.3,2577.3,Net Banking,Returned
+ORD00286,2025-10-07,CUST0251,Anjali,Ahmedabad,Gujarat,Tablet,Electronics,2,17467.83,34935.66,Cash on Delivery,Delivered
+ORD00287,2025-01-25,CUST0004,Divya,Bangalore,Karnataka,Office Chair,Furniture,1,9624.06,9624.06,Credit Card,Returned
+ORD00288,2025-08-22,CUST0192,Priya,Mumbai,Maharashtra,Mobile Phone,Electronics,2,19840.22,39680.44,Cash on Delivery,Cancelled
+ORD00289,2025-10-10,CUST0211,Ravi,Kochi,Kerala,Monitor,Electronics,2,12644.05,25288.1,UPI,Cancelled
+ORD00290,2025-09-15,CUST0221,Anjali,Jaipur,Rajasthan,Power Bank,Accessories,1,1643.24,1643.24,UPI,Delivered
+ORD00291,2025-05-10,CUST0182,Vijay,Hyderabad,Telangana,Office Chair,Furniture,1,8445.48,8445.48,Net Banking,Cancelled
+ORD00292,2025-12-23,CUST0116,Sneha,Hyderabad,Telangana,Keyboard,Accessories,4,1785.24,7140.96,UPI,Delivered
+ORD00293,2025-01-29,CUST0005,Anjali,Bangalore,Karnataka,Mobile Phone,Electronics,1,21459.55,21459.55,UPI,Delivered
+ORD00294,2025-09-28,CUST0022,Neha,Ahmedabad,Gujarat,Mouse,Accessories,2,869.63,1739.26,Credit Card,Delivered
+ORD00295,2025-05-24,CUST0279,Aditya,Kochi,Kerala,Monitor,Electronics,1,15187.65,15187.65,UPI,Returned
+ORD00296,2025-12-31,CUST0204,Arun,Chennai,Tamil Nadu,Keyboard,Accessories,1,1694.58,1694.58,Debit Card,Delivered
+ORD00297,2025-12-13,CUST0277,Amit,Chennai,Tamil Nadu,Desk,Furniture,1,12803.16,12803.16,Net Banking,Delivered
+ORD00298,2025-01-28,CUST0051,Divya,Chennai,Tamil Nadu,Power Bank,Accessories,2,1500.24,3000.48,Credit Card,Delivered
+ORD00299,2025-07-23,CUST0168,Ravi,Hyderabad,Telangana,Keyboard,Accessories,2,1840.99,3681.98,Debit Card,Cancelled
+ORD00300,2025-08-10,CUST0096,Aditya,Ahmedabad,Gujarat,Monitor,Electronics,1,14148.51,14148.51,Net Banking,Delivered
+ORD00301,2025-02-12,CUST0138,Kiran,Hyderabad,Telangana,Desk,Furniture,1,11391.48,11391.48,Net Banking,Delivered
+ORD00302,2025-01-03,CUST0158,Nikhil,Chennai,Tamil Nadu,Power Bank,Accessories,1,1458.21,1458.21,Debit Card,Delivered
+ORD00303,2025-10-13,CUST0285,Suresh,Pune,Maharashtra,Mobile Phone,Electronics,1,20624.52,20624.52,Net Banking,Delivered
+ORD00304,2025-11-03,CUST0167,Rohit,Hyderabad,Telangana,Laptop,Electronics,1,55596.42,55596.42,UPI,Cancelled
+ORD00305,2025-05-05,CUST0293,Suresh,Pune,Maharashtra,Mouse,Accessories,1,825.25,825.25,Credit Card,Cancelled
+ORD00306,2025-03-16,CUST0033,Anjali,Kolkata,West Bengal,Tablet,Electronics,1,17284.07,17284.07,Net Banking,Delivered
+ORD00307,2025-05-09,CUST0127,Kavya,Pune,Maharashtra,Mouse,Accessories,1,950.88,950.88,Cash on Delivery,Delivered
+ORD00308,2025-07-22,CUST0171,Swathi,Kochi,Kerala,Headphones,Accessories,1,2317.74,2317.74,Net Banking,Delivered
+ORD00309,2025-11-01,CUST0070,Sneha,Delhi,Delhi,Monitor,Electronics,1,14883.33,14883.33,Debit Card,Returned
+ORD00310,2025-06-13,CUST0150,Kavya,Kochi,Kerala,Power Bank,Accessories,1,1444.25,1444.25,Cash on Delivery,Delivered
+ORD00311,2025-07-06,CUST0059,Aditya,Mumbai,Maharashtra,Keyboard,Accessories,1,1913.94,1913.94,Credit Card,Delivered
+ORD00312,2025-08-25,CUST0108,Nikhil,Kochi,Kerala,Office Chair,Furniture,1,9481.71,9481.71,Debit Card,Delivered
+ORD00313,2025-05-04,CUST0130,Kiran,Hyderabad,Telangana,Mouse,Accessories,2,835.05,1670.1,Net Banking,Delivered
+ORD00314,2025-07-25,CUST0274,Suresh,Kolkata,West Bengal,Mobile Phone,Electronics,1,22430.91,22430.91,Net Banking,Cancelled
+ORD00315,2025-11-01,CUST0044,Sita,Jaipur,Rajasthan,Laptop,Electronics,2,53454.82,106909.64,Credit Card,Cancelled
+ORD00316,2025-12-13,CUST0205,Amit,Delhi,Delhi,Tablet,Electronics,2,16359.47,32718.94,Net Banking,Returned
+ORD00317,2025-09-23,CUST0286,Aditya,Hyderabad,Telangana,Laptop,Electronics,1,51942.01,51942.01,Cash on Delivery,Returned
+ORD00318,2025-10-29,CUST0257,Kiran,Mumbai,Maharashtra,Monitor,Electronics,1,13896.58,13896.58,Debit Card,Returned
+ORD00319,2025-03-01,CUST0073,Pooja,Bangalore,Karnataka,Monitor,Electronics,1,13764.73,13764.73,Debit Card,Delivered
+ORD00320,2025-09-01,CUST0050,Nikhil,Delhi,Delhi,Monitor,Electronics,2,14059.12,28118.24,Net Banking,Delivered
+ORD00321,2025-01-12,CUST0176,Sita,Delhi,Delhi,Mobile Phone,Electronics,1,23364.82,23364.82,Credit Card,Delivered
+ORD00322,2025-08-07,CUST0237,Neha,Mumbai,Maharashtra,Office Chair,Furniture,1,8388.24,8388.24,Net Banking,Cancelled
+ORD00323,2025-11-11,CUST0102,Nikhil,Chennai,Tamil Nadu,Tablet,Electronics,2,17755.68,35511.36,Cash on Delivery,Delivered
+ORD00324,2025-12-27,CUST0033,Aditya,Kolkata,West Bengal,Mouse,Accessories,1,848.66,848.66,UPI,Delivered
+ORD00325,2025-05-15,CUST0251,Suresh,Jaipur,Rajasthan,Tablet,Electronics,1,16909.47,16909.47,Debit Card,Delivered
+ORD00326,2025-06-30,CUST0235,Swathi,Kochi,Kerala,Mouse,Accessories,2,915.66,1831.32,Credit Card,Delivered
+ORD00327,2025-03-02,CUST0123,Sneha,Pune,Maharashtra,Desk,Furniture,2,12413.06,24826.12,UPI,Delivered
+ORD00328,2025-11-02,CUST0071,Aditya,Chennai,Tamil Nadu,Keyboard,Accessories,2,1803.9,3607.8,Net Banking,Delivered
+ORD00329,2025-03-30,CUST0285,Anjali,Kolkata,West Bengal,Tablet,Electronics,1,18134.57,18134.57,Net Banking,Returned
+ORD00330,2025-01-28,CUST0184,Ravi,Pune,Maharashtra,Tablet,Electronics,1,19231.15,19231.15,Net Banking,Cancelled
+ORD00331,2025-12-01,CUST0254,Divya,Chennai,Tamil Nadu,Headphones,Accessories,3,2731.91,8195.73,Net Banking,Cancelled
+ORD00332,2025-10-17,CUST0016,Neha,Kolkata,West Bengal,Power Bank,Accessories,3,1496.61,4489.83,Debit Card,Delivered
+ORD00333,2025-10-17,CUST0254,Meena,Bangalore,Karnataka,Smartwatch,Accessories,1,4788.67,4788.67,Cash on Delivery,Delivered
+ORD00334,2025-10-05,CUST0022,Nikhil,Hyderabad,Telangana,Desk,Furniture,1,12660.27,12660.27,Cash on Delivery,Delivered
+ORD00335,2025-06-02,CUST0017,Nikhil,Mumbai,Maharashtra,Mouse,Accessories,1,959.41,959.41,Debit Card,Delivered
+ORD00336,2025-04-18,CUST0180,Swathi,Delhi,Delhi,Mobile Phone,Electronics,1,24173.41,24173.41,Net Banking,Delivered
+ORD00337,2025-01-31,CUST0292,Pooja,Chennai,Tamil Nadu,Desk,Furniture,1,11295.89,11295.89,Cash on Delivery,Delivered
+ORD00338,2025-05-30,CUST0149,Aditya,Pune,Maharashtra,Desk,Furniture,1,11576.77,11576.77,Debit Card,Returned
+ORD00339,2025-01-31,CUST0142,Kiran,Jaipur,Rajasthan,Backpack,Lifestyle,3,1668.81,5006.43,Credit Card,Delivered
+ORD00340,2025-07-21,CUST0251,Kiran,Mumbai,Maharashtra,Tablet,Electronics,2,19182.53,38365.06,Cash on Delivery,Returned
+ORD00341,2025-02-17,CUST0207,Suresh,Pune,Maharashtra,Backpack,Lifestyle,1,1782.72,1782.72,Debit Card,Returned
+ORD00342,2025-02-17,CUST0235,Pooja,Delhi,Delhi,Monitor,Electronics,4,13516.41,54065.64,UPI,Delivered
+ORD00343,2025-09-11,CUST0138,Amit,Jaipur,Rajasthan,Mouse,Accessories,1,887.34,887.34,Debit Card,Delivered
+ORD00344,2025-06-25,CUST0025,Priya,Delhi,Delhi,Office Chair,Furniture,2,9119.06,18238.12,UPI,Delivered
+ORD00345,2025-08-22,CUST0001,Divya,Ahmedabad,Gujarat,Laptop,Electronics,1,58934.17,58934.17,Credit Card,Delivered
+ORD00346,2025-02-17,CUST0185,Vijay,Chennai,Tamil Nadu,Backpack,Lifestyle,1,1934.79,1934.79,UPI,Delivered
+ORD00347,2025-11-17,CUST0157,Neha,Delhi,Delhi,Backpack,Lifestyle,3,1679.59,5038.77,Net Banking,Delivered
+ORD00348,2025-03-09,CUST0116,Suresh,Hyderabad,Telangana,Power Bank,Accessories,1,1414.03,1414.03,Net Banking,Delivered
+ORD00349,2025-12-22,CUST0068,Kavya,Bangalore,Karnataka,Laptop,Electronics,2,58488.2,116976.4,UPI,Delivered
+ORD00350,2025-06-10,CUST0189,Sneha,Mumbai,Maharashtra,Mouse,Accessories,1,955.07,955.07,Credit Card,Delivered
+ORD00351,2025-09-29,CUST0289,Ravi,Kolkata,West Bengal,Tablet,Electronics,2,18637.69,37275.38,Cash on Delivery,Delivered
+ORD00352,2025-03-19,CUST0211,Swathi,Chennai,Tamil Nadu,Monitor,Electronics,1,13196.56,13196.56,Net Banking,Returned
+ORD00353,2025-10-29,CUST0197,Pooja,Mumbai,Maharashtra,Mobile Phone,Electronics,3,20416.06,61248.18,Net Banking,Delivered
+ORD00354,2025-10-11,CUST0146,Ravi,Delhi,Delhi,Tablet,Electronics,1,18520.63,18520.63,Debit Card,Delivered
+ORD00355,2025-06-01,CUST0028,Neha,Mumbai,Maharashtra,Office Chair,Furniture,2,8439.56,16879.12,Net Banking,Delivered
+ORD00356,2025-09-28,CUST0007,Pooja,Kolkata,West Bengal,Mobile Phone,Electronics,1,22607.56,22607.56,Debit Card,Delivered
+ORD00357,2025-10-07,CUST0089,Kavya,Chennai,Tamil Nadu,Mouse,Accessories,3,912.31,2736.93,UPI,Delivered
+ORD00358,2025-01-31,CUST0204,Suresh,Bangalore,Karnataka,Desk,Furniture,1,11429.24,11429.24,Debit Card,Delivered
+ORD00359,2025-10-02,CUST0276,Swathi,Jaipur,Rajasthan,Mouse,Accessories,1,882.41,882.41,Credit Card,Returned
+ORD00360,2025-03-21,CUST0275,Amit,Pune,Maharashtra,Mobile Phone,Electronics,1,22049.74,22049.74,Net Banking,Delivered
+ORD00361,2025-02-03,CUST0159,Divya,Kochi,Kerala,Backpack,Lifestyle,2,1853.94,3707.88,Credit Card,Returned
+ORD00362,2025-11-10,CUST0029,Sneha,Bangalore,Karnataka,Headphones,Accessories,1,2467.24,2467.24,Credit Card,Delivered
+ORD00363,2025-09-12,CUST0178,Suresh,Hyderabad,Telangana,Laptop,Electronics,2,57216.5,114433.0,Cash on Delivery,Delivered
+ORD00364,2025-03-02,CUST0016,Amit,Pune,Maharashtra,Tablet,Electronics,1,18899.19,18899.19,Net Banking,Delivered
+ORD00365,2025-11-18,CUST0040,Kavya,Pune,Maharashtra,Office Chair,Furniture,1,9382.18,9382.18,Net Banking,Cancelled
+ORD00366,2025-07-08,CUST0081,Vijay,Jaipur,Rajasthan,Keyboard,Accessories,1,1929.37,1929.37,UPI,Delivered
+ORD00367,2025-01-02,CUST0023,Ravi,Kochi,Kerala,Backpack,Lifestyle,2,1702.23,3404.46,Credit Card,Cancelled
+ORD00368,2025-01-19,CUST0284,Divya,Bangalore,Karnataka,Monitor,Electronics,1,15176.63,15176.63,Credit Card,Delivered
+ORD00369,2025-02-09,CUST0293,Pooja,Delhi,Delhi,Headphones,Accessories,1,2610.14,2610.14,UPI,Delivered
+ORD00370,2025-01-24,CUST0206,Arun,Jaipur,Rajasthan,Backpack,Lifestyle,3,1684.56,5053.68,Net Banking,Cancelled
+ORD00371,2025-07-08,CUST0103,Sneha,Pune,Maharashtra,Smartwatch,Accessories,1,5053.09,5053.09,Cash on Delivery,Delivered
+ORD00372,2025-09-10,CUST0101,Meena,Pune,Maharashtra,Power Bank,Accessories,2,1489.18,2978.36,Credit Card,Cancelled
+ORD00373,2025-06-27,CUST0005,Amit,Chennai,Tamil Nadu,Laptop,Electronics,4,49763.01,199052.04,UPI,Cancelled
+ORD00374,2025-05-02,CUST0215,Kavya,Kolkata,West Bengal,Power Bank,Accessories,2,1381.18,2762.36,UPI,Cancelled
+ORD00375,2025-09-24,CUST0212,Pooja,Chennai,Tamil Nadu,Power Bank,Accessories,1,1363.17,1363.17,Net Banking,Delivered
+ORD00376,2025-02-08,CUST0291,Priya,Hyderabad,Telangana,Desk,Furniture,1,11120.43,11120.43,Net Banking,Delivered
+ORD00377,2025-12-25,CUST0168,Amit,Chennai,Tamil Nadu,Headphones,Accessories,1,2675.46,2675.46,Net Banking,Delivered
+ORD00378,2025-02-25,CUST0080,Sita,Pune,Maharashtra,Headphones,Accessories,1,2351.36,2351.36,Credit Card,Cancelled
+ORD00379,2025-04-17,CUST0232,Sneha,Ahmedabad,Gujarat,Monitor,Electronics,1,12938.06,12938.06,Net Banking,Delivered
+ORD00380,2025-12-27,CUST0021,Rahul,Pune,Maharashtra,Mobile Phone,Electronics,1,23353.43,23353.43,Debit Card,Delivered
+ORD00381,2025-09-20,CUST0026,Sneha,Chennai,Tamil Nadu,Mobile Phone,Electronics,2,24060.96,48121.92,Debit Card,Delivered
+ORD00382,2025-10-09,CUST0128,Sita,Chennai,Tamil Nadu,Laptop,Electronics,4,58900.61,235602.44,Net Banking,Cancelled
+ORD00383,2025-03-08,CUST0102,Rohit,Hyderabad,Telangana,Tablet,Electronics,1,16422.01,16422.01,Debit Card,Delivered
+ORD00384,2025-01-12,CUST0034,Rahul,Hyderabad,Telangana,Desk,Furniture,2,13001.83,26003.66,Net Banking,Delivered
+ORD00385,2025-03-04,CUST0022,Nikhil,Chennai,Tamil Nadu,Mobile Phone,Electronics,3,23449.17,70347.51,UPI,Delivered
+ORD00386,2025-01-16,CUST0196,Divya,Chennai,Tamil Nadu,Desk,Furniture,1,12538.63,12538.63,Credit Card,Delivered
+ORD00387,2025-03-18,CUST0018,Swathi,Delhi,Delhi,Headphones,Accessories,3,2387.49,7162.47,Cash on Delivery,Delivered
+ORD00388,2025-09-03,CUST0032,Arun,Kochi,Kerala,Headphones,Accessories,2,2499.45,4998.9,Debit Card,Cancelled
+ORD00389,2025-05-08,CUST0279,Ravi,Kolkata,West Bengal,Tablet,Electronics,1,18513.55,18513.55,Net Banking,Cancelled
+ORD00390,2025-09-15,CUST0165,Rohit,Delhi,Delhi,Monitor,Electronics,1,13957.1,13957.1,Debit Card,Cancelled
+ORD00391,2025-01-30,CUST0242,Suresh,Chennai,Tamil Nadu,Laptop,Electronics,1,51909.22,51909.22,Debit Card,Delivered
+ORD00392,2025-05-04,CUST0137,Meena,Kochi,Kerala,Headphones,Accessories,4,2300.07,9200.28,UPI,Returned
+ORD00393,2025-03-30,CUST0091,Neha,Mumbai,Maharashtra,Desk,Furniture,3,12713.74,38141.22,Cash on Delivery,Delivered
+ORD00394,2025-12-27,CUST0181,Aditya,Delhi,Delhi,Power Bank,Accessories,2,1624.19,3248.38,Cash on Delivery,Delivered
+ORD00395,2025-10-05,CUST0159,Anjali,Chennai,Tamil Nadu,Desk,Furniture,4,12808.07,51232.28,Net Banking,Delivered
+ORD00396,2025-09-27,CUST0245,Ravi,Bangalore,Karnataka,Mobile Phone,Electronics,1,22447.32,22447.32,Debit Card,Delivered
+ORD00397,2025-06-15,CUST0031,Ravi,Kochi,Kerala,Headphones,Accessories,3,2420.38,7261.14,Credit Card,Delivered
+ORD00398,2025-07-06,CUST0038,Pooja,Kochi,Kerala,Power Bank,Accessories,3,1582.31,4746.93,Net Banking,Cancelled
+ORD00399,2025-08-12,CUST0250,Amit,Kochi,Kerala,Mobile Phone,Electronics,1,21219.45,21219.45,Credit Card,Delivered
+ORD00400,2025-04-25,CUST0090,Rohit,Jaipur,Rajasthan,Power Bank,Accessories,3,1534.11,4602.33,Debit Card,Delivered
+ORD00401,2025-10-21,CUST0201,Aditya,Pune,Maharashtra,Tablet,Electronics,1,16206.47,16206.47,UPI,Returned
+ORD00402,2025-04-24,CUST0290,Sita,Chennai,Tamil Nadu,Desk,Furniture,1,12741.14,12741.14,Net Banking,Cancelled
+ORD00403,2025-03-27,CUST0046,Amit,Chennai,Tamil Nadu,Keyboard,Accessories,2,1705.68,3411.36,Net Banking,Delivered
+ORD00404,2025-05-12,CUST0056,Ravi,Bangalore,Karnataka,Smartwatch,Accessories,1,5193.18,5193.18,UPI,Delivered
+ORD00405,2025-09-10,CUST0194,Pooja,Kolkata,West Bengal,Monitor,Electronics,2,15313.49,30626.98,Cash on Delivery,Delivered
+ORD00406,2025-11-30,CUST0116,Anjali,Kolkata,West Bengal,Mobile Phone,Electronics,3,23270.41,69811.23,Net Banking,Cancelled
+ORD00407,2025-02-07,CUST0176,Anjali,Hyderabad,Telangana,Laptop,Electronics,1,53005.89,53005.89,Net Banking,Delivered
+ORD00408,2025-06-23,CUST0248,Ravi,Chennai,Tamil Nadu,Power Bank,Accessories,1,1632.55,1632.55,Net Banking,Delivered
+ORD00409,2025-06-19,CUST0106,Rahul,Chennai,Tamil Nadu,Desk,Furniture,3,11177.05,33531.15,Net Banking,Delivered
+ORD00410,2025-05-25,CUST0153,Neha,Jaipur,Rajasthan,Power Bank,Accessories,4,1512.04,6048.16,UPI,Returned
+ORD00411,2025-01-28,CUST0185,Ravi,Bangalore,Karnataka,Mouse,Accessories,2,961.17,1922.34,Net Banking,Delivered
+ORD00412,2025-04-13,CUST0050,Ravi,Hyderabad,Telangana,Smartwatch,Accessories,3,5125.09,15375.27,Credit Card,Delivered
+ORD00413,2025-06-07,CUST0204,Kavya,Chennai,Tamil Nadu,Backpack,Lifestyle,1,1649.5,1649.5,Net Banking,Delivered
+ORD00414,2025-07-15,CUST0190,Anjali,Pune,Maharashtra,Mobile Phone,Electronics,2,21505.12,43010.24,Net Banking,Delivered
+ORD00415,2025-10-16,CUST0032,Kiran,Bangalore,Karnataka,Smartwatch,Accessories,1,4763.4,4763.4,UPI,Delivered
+ORD00416,2025-04-27,CUST0284,Priya,Hyderabad,Telangana,Backpack,Lifestyle,1,1814.92,1814.92,Net Banking,Cancelled
+ORD00417,2025-10-21,CUST0121,Kavya,Jaipur,Rajasthan,Mouse,Accessories,4,933.67,3734.68,Debit Card,Delivered
+ORD00418,2025-10-20,CUST0265,Aditya,Hyderabad,Telangana,Mouse,Accessories,3,938.58,2815.74,Cash on Delivery,Cancelled
+ORD00419,2025-04-19,CUST0099,Kiran,Chennai,Tamil Nadu,Mobile Phone,Electronics,4,21775.77,87103.08,UPI,Delivered
+ORD00420,2025-03-17,CUST0133,Amit,Kolkata,West Bengal,Mobile Phone,Electronics,5,21715.73,108578.65,UPI,Returned
+ORD00421,2025-09-24,CUST0235,Ravi,Hyderabad,Telangana,Mouse,Accessories,2,909.37,1818.74,Cash on Delivery,Delivered
+ORD00422,2025-03-17,CUST0291,Aditya,Kochi,Kerala,Office Chair,Furniture,2,8302.53,16605.06,Cash on Delivery,Delivered
+ORD00423,2025-10-02,CUST0177,Divya,Hyderabad,Telangana,Mobile Phone,Electronics,2,20244.36,40488.72,Debit Card,Delivered
+ORD00424,2025-03-30,CUST0142,Rohit,Kolkata,West Bengal,Backpack,Lifestyle,1,1839.23,1839.23,Credit Card,Delivered
+ORD00425,2025-06-19,CUST0122,Priya,Kochi,Kerala,Desk,Furniture,2,11764.13,23528.26,Net Banking,Delivered
+ORD00426,2025-06-09,CUST0144,Kavya,Pune,Maharashtra,Keyboard,Accessories,1,1914.26,1914.26,UPI,Delivered
+ORD00427,2025-05-18,CUST0214,Swathi,Mumbai,Maharashtra,Tablet,Electronics,1,18877.41,18877.41,UPI,Delivered
+ORD00428,2025-09-06,CUST0265,Pooja,Mumbai,Maharashtra,Monitor,Electronics,1,14907.11,14907.11,UPI,Returned
+ORD00429,2025-03-11,CUST0269,Aditya,Jaipur,Rajasthan,Tablet,Electronics,1,18754.45,18754.45,UPI,Delivered
+ORD00430,2025-05-08,CUST0017,Nikhil,Chennai,Tamil Nadu,Headphones,Accessories,3,2350.36,7051.08,UPI,Delivered
+ORD00431,2025-09-16,CUST0204,Sita,Delhi,Delhi,Power Bank,Accessories,1,1460.51,1460.51,UPI,Delivered
+ORD00432,2025-10-28,CUST0283,Pooja,Mumbai,Maharashtra,Keyboard,Accessories,1,1780.6,1780.6,Debit Card,Delivered
+ORD00433,2025-01-15,CUST0198,Priya,Chennai,Tamil Nadu,Smartwatch,Accessories,2,5188.85,10377.7,Credit Card,Delivered
+ORD00434,2025-04-16,CUST0138,Divya,Kochi,Kerala,Headphones,Accessories,3,2573.69,7721.07,Cash on Delivery,Returned
+ORD00435,2025-03-30,CUST0005,Neha,Bangalore,Karnataka,Backpack,Lifestyle,1,1948.15,1948.15,Debit Card,Returned
+ORD00436,2025-08-05,CUST0193,Pooja,Kochi,Kerala,Smartwatch,Accessories,2,5209.37,10418.74,Net Banking,Delivered
+ORD00437,2025-07-23,CUST0300,Sita,Pune,Maharashtra,Headphones,Accessories,1,2588.6,2588.6,UPI,Cancelled
+ORD00438,2025-11-28,CUST0145,Sneha,Jaipur,Rajasthan,Backpack,Lifestyle,4,1922.18,7688.72,UPI,Cancelled
+ORD00439,2025-05-22,CUST0134,Sneha,Ahmedabad,Gujarat,Mobile Phone,Electronics,1,21016.53,21016.53,Credit Card,Delivered
+ORD00440,2025-07-26,CUST0164,Kiran,Chennai,Tamil Nadu,Office Chair,Furniture,2,9719.44,19438.88,UPI,Cancelled
+ORD00441,2025-01-19,CUST0299,Aditya,Ahmedabad,Gujarat,Smartwatch,Accessories,1,4918.57,4918.57,Credit Card,Delivered
+ORD00442,2025-09-01,CUST0184,Suresh,Delhi,Delhi,Power Bank,Accessories,2,1555.9,3111.8,Debit Card,Returned
+ORD00443,2025-08-30,CUST0066,Vijay,Chennai,Tamil Nadu,Backpack,Lifestyle,3,1685.21,5055.63,Cash on Delivery,Delivered
+ORD00444,2025-07-01,CUST0115,Sneha,Chennai,Tamil Nadu,Backpack,Lifestyle,3,1855.6,5566.8,Net Banking,Delivered
+ORD00445,2025-08-29,CUST0028,Aditya,Delhi,Delhi,Keyboard,Accessories,1,1725.86,1725.86,Cash on Delivery,Delivered
+ORD00446,2025-12-15,CUST0196,Suresh,Kochi,Kerala,Mobile Phone,Electronics,1,20655.99,20655.99,Debit Card,Delivered
+ORD00447,2025-06-25,CUST0210,Aditya,Kolkata,West Bengal,Laptop,Electronics,3,51158.56,153475.68,Net Banking,Delivered
+ORD00448,2025-09-07,CUST0171,Anjali,Chennai,Tamil Nadu,Keyboard,Accessories,3,1684.93,5054.79,Debit Card,Delivered
+ORD00449,2025-10-23,CUST0082,Kavya,Bangalore,Karnataka,Laptop,Electronics,1,51803.21,51803.21,UPI,Delivered
+ORD00450,2025-09-02,CUST0197,Ravi,Chennai,Tamil Nadu,Desk,Furniture,1,11830.58,11830.58,UPI,Delivered
+ORD00451,2025-09-29,CUST0098,Ravi,Jaipur,Rajasthan,Headphones,Accessories,2,2725.03,5450.06,UPI,Delivered
+ORD00452,2025-02-22,CUST0197,Suresh,Mumbai,Maharashtra,Headphones,Accessories,2,2422.17,4844.34,Cash on Delivery,Delivered
+ORD00453,2025-08-22,CUST0267,Swathi,Pune,Maharashtra,Tablet,Electronics,1,16364.59,16364.59,Cash on Delivery,Delivered
+ORD00454,2025-09-08,CUST0184,Rahul,Delhi,Delhi,Mouse,Accessories,3,989.19,2967.57,Credit Card,Delivered
+ORD00455,2025-04-19,CUST0012,Aditya,Kolkata,West Bengal,Laptop,Electronics,1,57498.86,57498.86,Cash on Delivery,Delivered
+ORD00456,2025-07-12,CUST0131,Meena,Chennai,Tamil Nadu,Mobile Phone,Electronics,1,22662.38,22662.38,Cash on Delivery,Delivered
+ORD00457,2025-01-11,CUST0025,Sita,Bangalore,Karnataka,Desk,Furniture,5,12388.73,61943.65,Net Banking,Returned
+ORD00458,2025-03-20,CUST0106,Ravi,Ahmedabad,Gujarat,Mouse,Accessories,1,855.49,855.49,Debit Card,Returned
+ORD00459,2025-11-07,CUST0071,Divya,Kolkata,West Bengal,Backpack,Lifestyle,1,1807.31,1807.31,UPI,Cancelled
+ORD00460,2025-09-12,CUST0102,Swathi,Jaipur,Rajasthan,Power Bank,Accessories,2,1434.81,2869.62,Credit Card,Delivered
+ORD00461,2025-06-01,CUST0083,Priya,Pune,Maharashtra,Office Chair,Furniture,4,8744.26,34977.04,Cash on Delivery,Delivered
+ORD00462,2025-01-02,CUST0007,Arun,Ahmedabad,Gujarat,Headphones,Accessories,2,2490.33,4980.66,UPI,Delivered
+ORD00463,2025-02-08,CUST0052,Vijay,Kochi,Kerala,Backpack,Lifestyle,1,1961.8,1961.8,Credit Card,Cancelled
+ORD00464,2025-01-21,CUST0149,Pooja,Ahmedabad,Gujarat,Smartwatch,Accessories,1,4550.08,4550.08,Debit Card,Delivered
+ORD00465,2025-01-05,CUST0071,Anjali,Kolkata,West Bengal,Power Bank,Accessories,1,1605.37,1605.37,Debit Card,Delivered
+ORD00466,2025-02-17,CUST0191,Amit,Delhi,Delhi,Monitor,Electronics,4,13351.27,53405.08,Credit Card,Returned
+ORD00467,2025-12-20,CUST0245,Divya,Hyderabad,Telangana,Mouse,Accessories,1,892.18,892.18,Credit Card,Delivered
+ORD00468,2025-02-23,CUST0214,Aditya,Hyderabad,Telangana,Tablet,Electronics,2,16411.13,32822.26,Net Banking,Delivered
+ORD00469,2025-11-10,CUST0015,Kiran,Kochi,Kerala,Backpack,Lifestyle,1,1840.08,1840.08,Net Banking,Delivered
+ORD00470,2025-05-14,CUST0161,Ravi,Ahmedabad,Gujarat,Mobile Phone,Electronics,3,21739.03,65217.09,Cash on Delivery,Delivered
+ORD00471,2025-06-23,CUST0266,Suresh,Kochi,Kerala,Power Bank,Accessories,2,1643.37,3286.74,Cash on Delivery,Returned
+ORD00472,2025-12-06,CUST0198,Kiran,Hyderabad,Telangana,Mouse,Accessories,2,854.74,1709.48,Cash on Delivery,Delivered
+ORD00473,2025-08-29,CUST0254,Anjali,Kochi,Kerala,Laptop,Electronics,1,59778.09,59778.09,UPI,Cancelled
+ORD00474,2025-09-17,CUST0115,Meena,Ahmedabad,Gujarat,Keyboard,Accessories,1,1969.25,1969.25,Net Banking,Delivered
+ORD00475,2025-08-18,CUST0046,Kavya,Kolkata,West Bengal,Headphones,Accessories,1,2472.09,2472.09,Net Banking,Cancelled
+ORD00476,2025-02-22,CUST0207,Divya,Delhi,Delhi,Mobile Phone,Electronics,5,23079.05,115395.25,UPI,Delivered
+ORD00477,2025-11-13,CUST0156,Suresh,Jaipur,Rajasthan,Office Chair,Furniture,1,8263.61,8263.61,Cash on Delivery,Cancelled
+ORD00478,2025-01-28,CUST0115,Nikhil,Mumbai,Maharashtra,Backpack,Lifestyle,2,1962.13,3924.26,Debit Card,Delivered
+ORD00479,2025-08-20,CUST0059,Sita,Jaipur,Rajasthan,Desk,Furniture,2,12519.98,25039.96,Credit Card,Delivered
+ORD00480,2025-10-08,CUST0268,Pooja,Bangalore,Karnataka,Keyboard,Accessories,1,1848.12,1848.12,UPI,Delivered
+ORD00481,2025-07-29,CUST0055,Vijay,Bangalore,Karnataka,Tablet,Electronics,1,19158.62,19158.62,Cash on Delivery,Returned
+ORD00482,2025-08-23,CUST0098,Amit,Mumbai,Maharashtra,Headphones,Accessories,1,2676.1,2676.1,UPI,Delivered
+ORD00483,2025-03-05,CUST0231,Nikhil,Kolkata,West Bengal,Laptop,Electronics,4,58712.13,234848.52,Cash on Delivery,Cancelled
+ORD00484,2025-01-25,CUST0284,Divya,Jaipur,Rajasthan,Tablet,Electronics,4,16215.62,64862.48,Cash on Delivery,Returned
+ORD00485,2025-10-24,CUST0089,Kiran,Ahmedabad,Gujarat,Office Chair,Furniture,2,9738.33,19476.66,UPI,Returned
+ORD00486,2025-07-16,CUST0215,Swathi,Kolkata,West Bengal,Backpack,Lifestyle,2,1937.77,3875.54,Credit Card,Cancelled
+ORD00487,2025-03-10,CUST0071,Divya,Pune,Maharashtra,Mouse,Accessories,4,984.69,3938.76,Cash on Delivery,Delivered
+ORD00488,2025-12-31,CUST0284,Rahul,Jaipur,Rajasthan,Smartwatch,Accessories,3,5047.81,15143.43,Credit Card,Delivered
+ORD00489,2025-03-09,CUST0092,Suresh,Mumbai,Maharashtra,Desk,Furniture,2,12447.87,24895.74,Cash on Delivery,Returned
+ORD00490,2025-10-26,CUST0293,Divya,Delhi,Delhi,Power Bank,Accessories,1,1455.67,1455.67,Cash on Delivery,Delivered
+ORD00491,2025-07-15,CUST0075,Priya,Pune,Maharashtra,Mouse,Accessories,3,904.09,2712.27,UPI,Delivered
+ORD00492,2025-12-16,CUST0129,Kiran,Mumbai,Maharashtra,Smartwatch,Accessories,2,4660.94,9321.88,UPI,Delivered
+ORD00493,2025-02-22,CUST0288,Neha,Pune,Maharashtra,Headphones,Accessories,2,2266.15,4532.3,Cash on Delivery,Delivered
+ORD00494,2025-05-28,CUST0025,Rohit,Kolkata,West Bengal,Headphones,Accessories,1,2648.42,2648.42,Net Banking,Returned
+ORD00495,2025-05-09,CUST0104,Swathi,Kolkata,West Bengal,Backpack,Lifestyle,1,1818.76,1818.76,Net Banking,Delivered
+ORD00496,2025-10-07,CUST0101,Rahul,Mumbai,Maharashtra,Backpack,Lifestyle,2,1853.15,3706.3,Debit Card,Cancelled
+ORD00497,2025-09-21,CUST0062,Rohit,Ahmedabad,Gujarat,Tablet,Electronics,5,16468.09,82340.45,UPI,Delivered
+ORD00498,2025-05-11,CUST0003,Amit,Kolkata,West Bengal,Smartwatch,Accessories,2,4630.07,9260.14,Net Banking,Cancelled
+ORD00499,2025-11-17,CUST0155,Kavya,Chennai,Tamil Nadu,Laptop,Electronics,1,53048.93,53048.93,Cash on Delivery,Delivered
+ORD00500,2025-04-23,CUST0095,Suresh,Jaipur,Rajasthan,Keyboard,Accessories,1,1874.77,1874.77,UPI,Cancelled
+ORD00501,2025-06-28,CUST0114,Rahul,Jaipur,Rajasthan,Tablet,Electronics,1,18133.33,18133.33,Debit Card,Delivered
+ORD00502,2025-09-29,CUST0244,Meena,Delhi,Delhi,Keyboard,Accessories,1,1962.11,1962.11,UPI,Cancelled
+ORD00503,2025-11-11,CUST0125,Priya,Hyderabad,Telangana,Backpack,Lifestyle,1,1706.53,1706.53,Debit Card,Returned
+ORD00504,2025-01-13,CUST0265,Pooja,Kolkata,West Bengal,Mobile Phone,Electronics,1,22177.04,22177.04,Cash on Delivery,Delivered
+ORD00505,2025-04-09,CUST0165,Suresh,Jaipur,Rajasthan,Monitor,Electronics,1,13430.02,13430.02,UPI,Returned
+ORD00506,2025-01-04,CUST0034,Rahul,Hyderabad,Telangana,Tablet,Electronics,4,18983.95,75935.8,Credit Card,Cancelled
+ORD00507,2025-08-11,CUST0037,Kiran,Kolkata,West Bengal,Mobile Phone,Electronics,1,23446.49,23446.49,UPI,Returned
+ORD00508,2025-04-02,CUST0129,Meena,Ahmedabad,Gujarat,Power Bank,Accessories,1,1376.26,1376.26,UPI,Delivered
+ORD00509,2025-11-19,CUST0208,Divya,Kochi,Kerala,Headphones,Accessories,3,2453.82,7361.46,Debit Card,Delivered
+ORD00510,2025-11-13,CUST0033,Aditya,Bangalore,Karnataka,Mouse,Accessories,2,906.27,1812.54,UPI,Returned
+ORD00511,2025-06-04,CUST0045,Sneha,Hyderabad,Telangana,Keyboard,Accessories,4,1658.21,6632.84,Net Banking,Returned
+ORD00512,2025-10-01,CUST0113,Kiran,Kolkata,West Bengal,Mouse,Accessories,3,815.55,2446.65,Net Banking,Delivered
+ORD00513,2025-11-28,CUST0192,Ravi,Jaipur,Rajasthan,Smartwatch,Accessories,4,4644.08,18576.32,Cash on Delivery,Returned
+ORD00514,2025-07-21,CUST0276,Meena,Jaipur,Rajasthan,Tablet,Electronics,1,16218.11,16218.11,UPI,Cancelled
+ORD00515,2025-04-19,CUST0212,Suresh,Pune,Maharashtra,Headphones,Accessories,2,2701.77,5403.54,Credit Card,Delivered
+ORD00516,2025-02-28,CUST0093,Aditya,Chennai,Tamil Nadu,Tablet,Electronics,1,19205.09,19205.09,UPI,Delivered
+ORD00517,2025-02-04,CUST0129,Sita,Jaipur,Rajasthan,Monitor,Electronics,2,12804.8,25609.6,Credit Card,Returned
+ORD00518,2025-12-02,CUST0121,Sita,Kochi,Kerala,Monitor,Electronics,4,13599.99,54399.96,Debit Card,Returned
+ORD00519,2025-06-18,CUST0157,Aditya,Kochi,Kerala,Mobile Phone,Electronics,3,21198.26,63594.78,Credit Card,Delivered
+ORD00520,2025-03-28,CUST0003,Amit,Kochi,Kerala,Desk,Furniture,1,11559.2,11559.2,Credit Card,Delivered
+ORD00521,2025-03-10,CUST0170,Kavya,Mumbai,Maharashtra,Power Bank,Accessories,2,1480.84,2961.68,Net Banking,Delivered
+ORD00522,2025-03-31,CUST0042,Vijay,Ahmedabad,Gujarat,Keyboard,Accessories,2,1795.31,3590.62,Credit Card,Delivered
+ORD00523,2025-02-08,CUST0010,Suresh,Jaipur,Rajasthan,Headphones,Accessories,1,2693.17,2693.17,UPI,Delivered
+ORD00524,2025-10-10,CUST0134,Meena,Kochi,Kerala,Desk,Furniture,1,12216.09,12216.09,Cash on Delivery,Delivered
+ORD00525,2025-10-29,CUST0149,Kiran,Ahmedabad,Gujarat,Backpack,Lifestyle,2,1751.69,3503.38,Net Banking,Delivered
+ORD00526,2025-12-06,CUST0123,Swathi,Jaipur,Rajasthan,Office Chair,Furniture,1,8754.96,8754.96,Credit Card,Delivered
+ORD00527,2025-12-04,CUST0075,Kavya,Jaipur,Rajasthan,Tablet,Electronics,1,16844.92,16844.92,Debit Card,Cancelled
+ORD00528,2025-07-09,CUST0120,Priya,Bangalore,Karnataka,Headphones,Accessories,2,2365.87,4731.74,Credit Card,Delivered
+ORD00529,2025-01-21,CUST0166,Sita,Jaipur,Rajasthan,Keyboard,Accessories,1,1950.44,1950.44,Cash on Delivery,Delivered
+ORD00530,2025-07-12,CUST0194,Pooja,Pune,Maharashtra,Power Bank,Accessories,1,1513.31,1513.31,Cash on Delivery,Delivered
+ORD00531,2025-09-22,CUST0208,Pooja,Hyderabad,Telangana,Office Chair,Furniture,1,9850.81,9850.81,Debit Card,Delivered
+ORD00532,2025-08-14,CUST0085,Neha,Ahmedabad,Gujarat,Monitor,Electronics,3,12618.47,37855.41,UPI,Delivered
+ORD00533,2025-07-05,CUST0061,Neha,Jaipur,Rajasthan,Backpack,Lifestyle,1,1674.09,1674.09,Net Banking,Delivered
+ORD00534,2025-04-18,CUST0083,Divya,Delhi,Delhi,Power Bank,Accessories,1,1552.57,1552.57,UPI,Delivered
+ORD00535,2025-11-19,CUST0263,Priya,Mumbai,Maharashtra,Laptop,Electronics,1,56015.82,56015.82,Cash on Delivery,Delivered
+ORD00536,2025-07-27,CUST0289,Ravi,Chennai,Tamil Nadu,Laptop,Electronics,1,59646.92,59646.92,Debit Card,Cancelled
+ORD00537,2025-03-29,CUST0113,Divya,Hyderabad,Telangana,Headphones,Accessories,1,2746.39,2746.39,Cash on Delivery,Delivered
+ORD00538,2025-09-19,CUST0136,Anjali,Chennai,Tamil Nadu,Desk,Furniture,3,11236.52,33709.56,Debit Card,Returned
+ORD00539,2025-03-09,CUST0056,Ravi,Ahmedabad,Gujarat,Desk,Furniture,2,11351.55,22703.1,Credit Card,Delivered
+ORD00540,2025-02-19,CUST0091,Kavya,Jaipur,Rajasthan,Office Chair,Furniture,2,9587.73,19175.46,Cash on Delivery,Cancelled
+ORD00541,2025-02-17,CUST0247,Kiran,Kochi,Kerala,Laptop,Electronics,3,55345.73,166037.19,Cash on Delivery,Delivered
+ORD00542,2025-08-09,CUST0268,Divya,Jaipur,Rajasthan,Laptop,Electronics,3,58023.57,174070.71,Debit Card,Returned
+ORD00543,2025-07-15,CUST0180,Aditya,Bangalore,Karnataka,Power Bank,Accessories,1,1418.85,1418.85,Cash on Delivery,Delivered
+ORD00544,2025-02-12,CUST0146,Swathi,Hyderabad,Telangana,Mouse,Accessories,1,895.89,895.89,Cash on Delivery,Delivered
+ORD00545,2025-10-23,CUST0268,Sita,Kolkata,West Bengal,Smartwatch,Accessories,1,5209.15,5209.15,Cash on Delivery,Delivered
+ORD00546,2025-07-29,CUST0186,Sita,Bangalore,Karnataka,Mouse,Accessories,2,933.8,1867.6,Credit Card,Delivered
+ORD00547,2025-08-05,CUST0290,Pooja,Kolkata,West Bengal,Backpack,Lifestyle,2,1714.07,3428.14,Cash on Delivery,Cancelled
+ORD00548,2025-10-13,CUST0248,Anjali,Pune,Maharashtra,Backpack,Lifestyle,1,1693.33,1693.33,Debit Card,Cancelled
+ORD00549,2025-06-26,CUST0204,Kiran,Jaipur,Rajasthan,Office Chair,Furniture,1,9879.31,9879.31,UPI,Cancelled
+ORD00550,2025-04-20,CUST0261,Rohit,Mumbai,Maharashtra,Monitor,Electronics,2,15257.89,30515.78,Debit Card,Delivered
+ORD00551,2025-07-19,CUST0003,Arun,Jaipur,Rajasthan,Desk,Furniture,2,12496.3,24992.6,Credit Card,Delivered
+ORD00552,2025-07-09,CUST0041,Swathi,Ahmedabad,Gujarat,Desk,Furniture,1,10953.79,10953.79,UPI,Delivered
+ORD00553,2025-11-02,CUST0030,Anjali,Kolkata,West Bengal,Mouse,Accessories,2,903.78,1807.56,Net Banking,Returned
+ORD00554,2025-05-27,CUST0100,Priya,Ahmedabad,Gujarat,Laptop,Electronics,1,56725.73,56725.73,Cash on Delivery,Cancelled
+ORD00555,2025-01-19,CUST0185,Neha,Jaipur,Rajasthan,Office Chair,Furniture,2,9207.34,18414.68,UPI,Returned
+ORD00556,2025-12-09,CUST0203,Rohit,Chennai,Tamil Nadu,Mobile Phone,Electronics,5,23230.56,116152.8,Cash on Delivery,Delivered
+ORD00557,2025-10-09,CUST0146,Meena,Mumbai,Maharashtra,Office Chair,Furniture,1,9366.52,9366.52,Cash on Delivery,Delivered
+ORD00558,2025-04-10,CUST0233,Rohit,Delhi,Delhi,Keyboard,Accessories,4,1719.54,6878.16,Cash on Delivery,Cancelled
+ORD00559,2025-02-07,CUST0258,Sneha,Bangalore,Karnataka,Smartwatch,Accessories,1,5006.24,5006.24,Debit Card,Cancelled
+ORD00560,2025-05-09,CUST0227,Rohit,Hyderabad,Telangana,Office Chair,Furniture,4,9677.0,38708.0,Cash on Delivery,Cancelled
+ORD00561,2025-12-15,CUST0236,Aditya,Ahmedabad,Gujarat,Headphones,Accessories,2,2730.62,5461.24,UPI,Delivered
+ORD00562,2025-12-13,CUST0118,Amit,Ahmedabad,Gujarat,Mobile Phone,Electronics,1,21483.76,21483.76,Net Banking,Delivered
+ORD00563,2025-05-08,CUST0148,Arun,Delhi,Delhi,Office Chair,Furniture,1,9361.47,9361.47,Net Banking,Delivered
+ORD00564,2025-07-01,CUST0112,Aditya,Delhi,Delhi,Mobile Phone,Electronics,2,20585.34,41170.68,Debit Card,Delivered
+ORD00565,2025-04-13,CUST0121,Neha,Chennai,Tamil Nadu,Power Bank,Accessories,2,1622.98,3245.96,Debit Card,Delivered
+ORD00566,2025-07-02,CUST0080,Sita,Mumbai,Maharashtra,Headphones,Accessories,1,2374.85,2374.85,UPI,Cancelled
+ORD00567,2025-10-05,CUST0022,Kavya,Hyderabad,Telangana,Backpack,Lifestyle,4,1797.36,7189.44,Debit Card,Delivered
+ORD00568,2025-05-21,CUST0252,Anjali,Kochi,Kerala,Keyboard,Accessories,1,1974.73,1974.73,Cash on Delivery,Cancelled
+ORD00569,2025-09-27,CUST0217,Kavya,Pune,Maharashtra,Mouse,Accessories,1,913.8,913.8,Cash on Delivery,Delivered
+ORD00570,2025-08-23,CUST0062,Suresh,Bangalore,Karnataka,Office Chair,Furniture,1,9648.72,9648.72,Net Banking,Delivered
+ORD00571,2025-10-25,CUST0052,Amit,Delhi,Delhi,Power Bank,Accessories,1,1552.23,1552.23,Debit Card,Delivered
+ORD00572,2025-08-30,CUST0176,Pooja,Kochi,Kerala,Smartwatch,Accessories,1,4762.85,4762.85,Credit Card,Delivered
+ORD00573,2025-07-06,CUST0206,Vijay,Ahmedabad,Gujarat,Mouse,Accessories,1,936.13,936.13,Net Banking,Delivered
+ORD00574,2025-02-21,CUST0139,Neha,Chennai,Tamil Nadu,Desk,Furniture,1,12182.14,12182.14,Cash on Delivery,Delivered
+ORD00575,2025-03-18,CUST0243,Ravi,Kolkata,West Bengal,Mouse,Accessories,1,954.01,954.01,Credit Card,Returned
+ORD00576,2025-09-22,CUST0274,Amit,Kolkata,West Bengal,Monitor,Electronics,1,15101.16,15101.16,Net Banking,Returned
+ORD00577,2025-02-20,CUST0084,Priya,Pune,Maharashtra,Smartwatch,Accessories,2,5067.83,10135.66,Credit Card,Delivered
+ORD00578,2025-06-21,CUST0134,Pooja,Pune,Maharashtra,Monitor,Electronics,3,12869.65,38608.95,Debit Card,Returned
+ORD00579,2025-07-30,CUST0063,Pooja,Jaipur,Rajasthan,Office Chair,Furniture,4,8563.89,34255.56,Cash on Delivery,Delivered
+ORD00580,2025-05-26,CUST0182,Amit,Mumbai,Maharashtra,Desk,Furniture,2,12357.91,24715.82,Cash on Delivery,Delivered
+ORD00581,2025-05-27,CUST0238,Kiran,Ahmedabad,Gujarat,Power Bank,Accessories,1,1373.52,1373.52,Credit Card,Cancelled
+ORD00582,2025-02-10,CUST0083,Amit,Delhi,Delhi,Mouse,Accessories,2,912.89,1825.78,Credit Card,Delivered
+ORD00583,2025-11-27,CUST0203,Vijay,Delhi,Delhi,Keyboard,Accessories,2,1875.76,3751.52,Net Banking,Cancelled
+ORD00584,2025-03-27,CUST0095,Ravi,Delhi,Delhi,Power Bank,Accessories,2,1639.66,3279.32,Credit Card,Delivered
+ORD00585,2025-02-10,CUST0108,Anjali,Mumbai,Maharashtra,Backpack,Lifestyle,1,1887.8,1887.8,Net Banking,Returned
+ORD00586,2025-01-28,CUST0014,Rohit,Hyderabad,Telangana,Mobile Phone,Electronics,1,23666.24,23666.24,Cash on Delivery,Cancelled
+ORD00587,2025-07-19,CUST0159,Neha,Hyderabad,Telangana,Mobile Phone,Electronics,1,20483.21,20483.21,Credit Card,Returned
+ORD00588,2025-01-15,CUST0018,Pooja,Pune,Maharashtra,Monitor,Electronics,2,12967.58,25935.16,Debit Card,Delivered
+ORD00589,2025-10-08,CUST0228,Kiran,Ahmedabad,Gujarat,Monitor,Electronics,4,14113.64,56454.56,Cash on Delivery,Delivered
+ORD00590,2025-10-16,CUST0223,Suresh,Chennai,Tamil Nadu,Desk,Furniture,2,12314.51,24629.02,Cash on Delivery,Returned
+ORD00591,2025-08-15,CUST0158,Pooja,Pune,Maharashtra,Keyboard,Accessories,1,1701.77,1701.77,Net Banking,Delivered
+ORD00592,2025-06-26,CUST0147,Kavya,Pune,Maharashtra,Tablet,Electronics,1,16200.33,16200.33,Cash on Delivery,Delivered
+ORD00593,2025-06-03,CUST0005,Divya,Bangalore,Karnataka,Power Bank,Accessories,4,1634.09,6536.36,Debit Card,Delivered
+ORD00594,2025-07-30,CUST0288,Divya,Kochi,Kerala,Headphones,Accessories,2,2524.11,5048.22,Net Banking,Delivered
+ORD00595,2025-04-23,CUST0135,Arun,Mumbai,Maharashtra,Tablet,Electronics,2,18525.57,37051.14,Net Banking,Delivered
+ORD00596,2025-12-17,CUST0140,Sneha,Mumbai,Maharashtra,Office Chair,Furniture,2,9737.92,19475.84,Cash on Delivery,Returned
+ORD00597,2025-05-29,CUST0057,Nikhil,Pune,Maharashtra,Mouse,Accessories,1,822.32,822.32,Cash on Delivery,Delivered
+ORD00598,2025-01-10,CUST0078,Priya,Ahmedabad,Gujarat,Smartwatch,Accessories,2,4992.0,9984.0,Cash on Delivery,Delivered
+ORD00599,2025-08-13,CUST0005,Neha,Bangalore,Karnataka,Tablet,Electronics,4,17215.61,68862.44,UPI,Delivered
+ORD00600,2025-09-13,CUST0191,Nikhil,Chennai,Tamil Nadu,Laptop,Electronics,1,53261.04,53261.04,UPI,Delivered
+ORD00601,2025-05-17,CUST0201,Arun,Delhi,Delhi,Mobile Phone,Electronics,3,23987.23,71961.69,Cash on Delivery,Delivered
+ORD00602,2025-01-07,CUST0063,Neha,Ahmedabad,Gujarat,Tablet,Electronics,1,19229.54,19229.54,Net Banking,Delivered
+ORD00603,2025-02-18,CUST0267,Rahul,Ahmedabad,Gujarat,Headphones,Accessories,2,2266.76,4533.52,Net Banking,Delivered
+ORD00604,2025-11-19,CUST0022,Meena,Kolkata,West Bengal,Backpack,Lifestyle,4,1957.04,7828.16,Cash on Delivery,Delivered
+ORD00605,2025-01-27,CUST0112,Sita,Hyderabad,Telangana,Smartwatch,Accessories,1,4798.81,4798.81,Credit Card,Delivered
+ORD00606,2025-03-03,CUST0203,Neha,Kolkata,West Bengal,Keyboard,Accessories,1,1905.98,1905.98,UPI,Cancelled
+ORD00607,2025-03-21,CUST0191,Arun,Bangalore,Karnataka,Desk,Furniture,2,11940.65,23881.3,Credit Card,Cancelled
+ORD00608,2025-01-31,CUST0031,Pooja,Chennai,Tamil Nadu,Monitor,Electronics,1,14332.21,14332.21,Credit Card,Returned
+ORD00609,2025-11-27,CUST0178,Nikhil,Jaipur,Rajasthan,Mobile Phone,Electronics,1,20823.77,20823.77,Credit Card,Cancelled
+ORD00610,2025-01-21,CUST0249,Nikhil,Bangalore,Karnataka,Power Bank,Accessories,1,1567.32,1567.32,Cash on Delivery,Delivered
+ORD00611,2025-10-06,CUST0179,Amit,Pune,Maharashtra,Office Chair,Furniture,2,8441.6,16883.2,Net Banking,Delivered
+ORD00612,2025-09-29,CUST0080,Nikhil,Pune,Maharashtra,Desk,Furniture,3,12130.85,36392.55,Debit Card,Delivered
+ORD00613,2025-09-17,CUST0195,Anjali,Pune,Maharashtra,Office Chair,Furniture,1,8101.3,8101.3,UPI,Returned
+ORD00614,2025-02-02,CUST0276,Rohit,Kochi,Kerala,Keyboard,Accessories,2,1705.96,3411.92,Credit Card,Returned
+ORD00615,2025-05-25,CUST0166,Divya,Jaipur,Rajasthan,Backpack,Lifestyle,1,1818.53,1818.53,Debit Card,Cancelled
+ORD00616,2025-04-02,CUST0017,Rahul,Hyderabad,Telangana,Mobile Phone,Electronics,1,20093.39,20093.39,UPI,Delivered
+ORD00617,2025-12-03,CUST0251,Suresh,Ahmedabad,Gujarat,Headphones,Accessories,1,2535.51,2535.51,Cash on Delivery,Delivered
+ORD00618,2025-02-06,CUST0007,Rahul,Kochi,Kerala,Smartwatch,Accessories,1,4720.72,4720.72,Net Banking,Returned
+ORD00619,2025-08-01,CUST0189,Priya,Hyderabad,Telangana,Monitor,Electronics,3,12769.96,38309.88,Cash on Delivery,Cancelled
+ORD00620,2025-02-09,CUST0111,Suresh,Pune,Maharashtra,Office Chair,Furniture,1,8226.7,8226.7,UPI,Delivered
+ORD00621,2025-09-27,CUST0128,Aditya,Hyderabad,Telangana,Power Bank,Accessories,1,1465.6,1465.6,Credit Card,Delivered
+ORD00622,2025-10-23,CUST0184,Nikhil,Jaipur,Rajasthan,Power Bank,Accessories,2,1573.83,3147.66,Net Banking,Returned
+ORD00623,2025-06-22,CUST0081,Meena,Hyderabad,Telangana,Tablet,Electronics,2,18179.88,36359.76,Cash on Delivery,Cancelled
+ORD00624,2025-07-10,CUST0212,Divya,Ahmedabad,Gujarat,Keyboard,Accessories,3,1818.03,5454.09,Debit Card,Delivered
+ORD00625,2025-05-11,CUST0185,Nikhil,Kochi,Kerala,Headphones,Accessories,2,2356.96,4713.92,Net Banking,Cancelled
+ORD00626,2025-01-09,CUST0266,Kiran,Kolkata,West Bengal,Laptop,Electronics,2,60312.52,120625.04,Debit Card,Cancelled
+ORD00627,2025-01-12,CUST0142,Meena,Bangalore,Karnataka,Smartwatch,Accessories,5,4714.82,23574.1,Cash on Delivery,Delivered
+ORD00628,2025-08-24,CUST0183,Kiran,Jaipur,Rajasthan,Desk,Furniture,4,11171.32,44685.28,Credit Card,Delivered
+ORD00629,2025-06-03,CUST0048,Aditya,Pune,Maharashtra,Keyboard,Accessories,3,1709.95,5129.85,Net Banking,Delivered
+ORD00630,2025-03-30,CUST0250,Aditya,Kochi,Kerala,Headphones,Accessories,2,2611.79,5223.58,UPI,Delivered
+ORD00631,2025-07-15,CUST0041,Priya,Kochi,Kerala,Backpack,Lifestyle,1,1883.08,1883.08,Debit Card,Cancelled
+ORD00632,2025-12-01,CUST0006,Rohit,Delhi,Delhi,Mouse,Accessories,1,966.21,966.21,UPI,Delivered
+ORD00633,2025-06-17,CUST0258,Neha,Pune,Maharashtra,Office Chair,Furniture,1,9071.87,9071.87,Credit Card,Delivered
+ORD00634,2025-11-01,CUST0295,Suresh,Bangalore,Karnataka,Backpack,Lifestyle,2,1761.44,3522.88,UPI,Delivered
+ORD00635,2025-06-22,CUST0043,Kavya,Mumbai,Maharashtra,Mouse,Accessories,1,880.98,880.98,Cash on Delivery,Delivered
+ORD00636,2025-08-11,CUST0067,Kiran,Bangalore,Karnataka,Office Chair,Furniture,1,8253.14,8253.14,Net Banking,Cancelled
+ORD00637,2025-10-15,CUST0269,Neha,Jaipur,Rajasthan,Headphones,Accessories,1,2576.12,2576.12,Credit Card,Delivered
+ORD00638,2025-02-15,CUST0058,Divya,Hyderabad,Telangana,Smartwatch,Accessories,2,4823.41,9646.82,Net Banking,Cancelled
+ORD00639,2025-01-13,CUST0157,Anjali,Delhi,Delhi,Keyboard,Accessories,1,1744.03,1744.03,Debit Card,Returned
+ORD00640,2025-04-13,CUST0192,Kiran,Kochi,Kerala,Monitor,Electronics,2,13833.3,27666.6,UPI,Delivered
+ORD00641,2025-05-28,CUST0008,Amit,Hyderabad,Telangana,Power Bank,Accessories,1,1634.68,1634.68,UPI,Delivered
+ORD00642,2025-10-03,CUST0109,Rahul,Pune,Maharashtra,Monitor,Electronics,1,13529.25,13529.25,Cash on Delivery,Returned
+ORD00643,2025-12-22,CUST0010,Rohit,Jaipur,Rajasthan,Smartwatch,Accessories,1,5123.04,5123.04,Cash on Delivery,Delivered
+ORD00644,2025-12-23,CUST0139,Priya,Jaipur,Rajasthan,Laptop,Electronics,1,50161.21,50161.21,Net Banking,Delivered
+ORD00645,2025-07-04,CUST0056,Ravi,Bangalore,Karnataka,Mobile Phone,Electronics,1,20993.77,20993.77,Debit Card,Returned
+ORD00646,2025-02-20,CUST0162,Kavya,Kolkata,West Bengal,Headphones,Accessories,4,2504.27,10017.08,Cash on Delivery,Returned
+ORD00647,2025-10-15,CUST0012,Priya,Jaipur,Rajasthan,Mobile Phone,Electronics,1,22002.86,22002.86,Credit Card,Delivered
+ORD00648,2025-01-10,CUST0178,Pooja,Jaipur,Rajasthan,Smartwatch,Accessories,1,4893.4,4893.4,Debit Card,Delivered
+ORD00649,2025-02-01,CUST0132,Rohit,Pune,Maharashtra,Headphones,Accessories,5,2739.29,13696.45,UPI,Delivered
+ORD00650,2025-12-03,CUST0071,Arun,Jaipur,Rajasthan,Smartwatch,Accessories,1,4841.79,4841.79,Net Banking,Delivered
+ORD00651,2025-08-02,CUST0124,Aditya,Jaipur,Rajasthan,Backpack,Lifestyle,2,1845.19,3690.38,Credit Card,Delivered
+ORD00652,2025-03-09,CUST0106,Kiran,Kolkata,West Bengal,Smartwatch,Accessories,3,4829.28,14487.84,Cash on Delivery,Cancelled
+ORD00653,2025-12-19,CUST0269,Kiran,Jaipur,Rajasthan,Backpack,Lifestyle,3,1930.53,5791.59,Net Banking,Delivered
+ORD00654,2025-02-04,CUST0286,Meena,Chennai,Tamil Nadu,Backpack,Lifestyle,4,1950.16,7800.64,UPI,Delivered
+ORD00655,2025-06-13,CUST0212,Divya,Chennai,Tamil Nadu,Keyboard,Accessories,3,1672.39,5017.17,Debit Card,Delivered
+ORD00656,2025-05-21,CUST0078,Rahul,Ahmedabad,Gujarat,Power Bank,Accessories,4,1618.24,6472.96,UPI,Returned
+ORD00657,2025-05-17,CUST0291,Swathi,Chennai,Tamil Nadu,Tablet,Electronics,1,19749.44,19749.44,Credit Card,Cancelled
+ORD00658,2025-12-19,CUST0245,Kiran,Kochi,Kerala,Headphones,Accessories,1,2263.04,2263.04,Cash on Delivery,Delivered
+ORD00659,2025-09-09,CUST0243,Kiran,Kochi,Kerala,Monitor,Electronics,2,13647.09,27294.18,Credit Card,Delivered
+ORD00660,2025-05-19,CUST0212,Neha,Mumbai,Maharashtra,Headphones,Accessories,1,2632.27,2632.27,Credit Card,Delivered
+ORD00661,2025-11-12,CUST0251,Amit,Mumbai,Maharashtra,Mobile Phone,Electronics,1,24000.68,24000.68,Net Banking,Delivered
+ORD00662,2025-07-14,CUST0161,Rohit,Mumbai,Maharashtra,Mouse,Accessories,1,817.53,817.53,Cash on Delivery,Returned
+ORD00663,2025-01-20,CUST0267,Sita,Kochi,Kerala,Desk,Furniture,1,12339.35,12339.35,Net Banking,Returned
+ORD00664,2025-07-22,CUST0021,Meena,Ahmedabad,Gujarat,Laptop,Electronics,3,52202.94,156608.82,Net Banking,Cancelled
+ORD00665,2025-07-23,CUST0156,Sneha,Jaipur,Rajasthan,Backpack,Lifestyle,4,1688.35,6753.4,Net Banking,Delivered
+ORD00666,2025-09-22,CUST0073,Nikhil,Chennai,Tamil Nadu,Mouse,Accessories,1,975.43,975.43,Net Banking,Returned
+ORD00667,2025-12-23,CUST0280,Kiran,Hyderabad,Telangana,Power Bank,Accessories,1,1403.93,1403.93,Net Banking,Cancelled
+ORD00668,2025-12-31,CUST0104,Nikhil,Kolkata,West Bengal,Keyboard,Accessories,1,1684.4,1684.4,UPI,Cancelled
+ORD00669,2025-03-05,CUST0047,Sita,Pune,Maharashtra,Keyboard,Accessories,2,1946.58,3893.16,Net Banking,Delivered
+ORD00670,2025-11-10,CUST0082,Rohit,Delhi,Delhi,Mobile Phone,Electronics,1,21489.98,21489.98,Cash on Delivery,Cancelled
+ORD00671,2025-12-04,CUST0077,Anjali,Kolkata,West Bengal,Laptop,Electronics,2,59534.78,119069.56,Credit Card,Cancelled
+ORD00672,2025-08-17,CUST0148,Anjali,Chennai,Tamil Nadu,Power Bank,Accessories,1,1442.42,1442.42,UPI,Returned
+ORD00673,2025-08-23,CUST0255,Kavya,Chennai,Tamil Nadu,Headphones,Accessories,1,2632.7,2632.7,Cash on Delivery,Delivered
+ORD00674,2025-12-04,CUST0244,Nikhil,Bangalore,Karnataka,Desk,Furniture,3,11370.91,34112.73,Net Banking,Cancelled
+ORD00675,2025-05-23,CUST0286,Rahul,Ahmedabad,Gujarat,Mobile Phone,Electronics,2,19828.92,39657.84,UPI,Cancelled
+ORD00676,2025-01-17,CUST0296,Swathi,Chennai,Tamil Nadu,Tablet,Electronics,1,17456.47,17456.47,Debit Card,Delivered
+ORD00677,2025-03-24,CUST0146,Swathi,Delhi,Delhi,Mobile Phone,Electronics,1,21634.61,21634.61,Cash on Delivery,Delivered
+ORD00678,2025-07-04,CUST0019,Arun,Kochi,Kerala,Office Chair,Furniture,1,8919.61,8919.61,Debit Card,Cancelled
+ORD00679,2025-10-09,CUST0034,Sneha,Delhi,Delhi,Keyboard,Accessories,3,1915.3,5745.9,Net Banking,Delivered
+ORD00680,2025-07-31,CUST0269,Rahul,Chennai,Tamil Nadu,Mobile Phone,Electronics,2,21007.44,42014.88,Credit Card,Cancelled
+ORD00681,2025-09-28,CUST0045,Kavya,Kochi,Kerala,Laptop,Electronics,1,57527.01,57527.01,Cash on Delivery,Returned
+ORD00682,2025-10-22,CUST0182,Kiran,Pune,Maharashtra,Mouse,Accessories,2,866.97,1733.94,Cash on Delivery,Cancelled
+ORD00683,2025-04-03,CUST0120,Sneha,Kochi,Kerala,Monitor,Electronics,1,14369.2,14369.2,Credit Card,Delivered
+ORD00684,2025-04-17,CUST0213,Divya,Bangalore,Karnataka,Mobile Phone,Electronics,1,22552.03,22552.03,UPI,Delivered
+ORD00685,2025-11-24,CUST0104,Sneha,Delhi,Delhi,Keyboard,Accessories,2,1849.5,3699.0,Debit Card,Delivered
+ORD00686,2025-02-28,CUST0171,Amit,Hyderabad,Telangana,Smartwatch,Accessories,1,5049.99,5049.99,Net Banking,Delivered
+ORD00687,2025-06-19,CUST0174,Kavya,Kochi,Kerala,Desk,Furniture,4,12796.9,51187.6,Net Banking,Delivered
+ORD00688,2025-10-02,CUST0172,Nikhil,Bangalore,Karnataka,Backpack,Lifestyle,1,1675.94,1675.94,Net Banking,Delivered
+ORD00689,2025-10-12,CUST0275,Ravi,Bangalore,Karnataka,Office Chair,Furniture,1,9404.94,9404.94,Credit Card,Delivered
+ORD00690,2025-02-03,CUST0077,Vijay,Kochi,Kerala,Backpack,Lifestyle,1,1949.83,1949.83,UPI,Delivered
+ORD00691,2025-11-07,CUST0200,Anjali,Delhi,Delhi,Mouse,Accessories,2,961.63,1923.26,Cash on Delivery,Cancelled
+ORD00692,2025-05-20,CUST0212,Arun,Hyderabad,Telangana,Smartwatch,Accessories,2,4814.5,9629.0,Net Banking,Delivered
+ORD00693,2025-09-26,CUST0155,Anjali,Mumbai,Maharashtra,Keyboard,Accessories,1,1962.26,1962.26,UPI,Delivered
+ORD00694,2025-09-17,CUST0013,Kavya,Delhi,Delhi,Laptop,Electronics,2,59546.89,119093.78,Cash on Delivery,Delivered
+ORD00695,2025-06-08,CUST0168,Kiran,Chennai,Tamil Nadu,Headphones,Accessories,1,2491.74,2491.74,UPI,Cancelled
+ORD00696,2025-08-24,CUST0199,Suresh,Jaipur,Rajasthan,Backpack,Lifestyle,5,1693.87,8469.35,UPI,Delivered
+ORD00697,2025-02-14,CUST0171,Nikhil,Bangalore,Karnataka,Smartwatch,Accessories,4,5187.05,20748.2,UPI,Cancelled
+ORD00698,2025-10-23,CUST0160,Rahul,Hyderabad,Telangana,Office Chair,Furniture,2,9442.0,18884.0,Debit Card,Delivered
+ORD00699,2025-12-10,CUST0061,Vijay,Mumbai,Maharashtra,Headphones,Accessories,1,2516.14,2516.14,Credit Card,Delivered
+ORD00700,2025-09-21,CUST0053,Rahul,Chennai,Tamil Nadu,Smartwatch,Accessories,1,5458.3,5458.3,Cash on Delivery,Cancelled
+ORD00701,2025-05-26,CUST0294,Neha,Delhi,Delhi,Office Chair,Furniture,1,8354.8,8354.8,Credit Card,Returned
+ORD00702,2025-01-26,CUST0067,Ravi,Hyderabad,Telangana,Smartwatch,Accessories,2,4838.74,9677.48,Net Banking,Delivered
+ORD00703,2025-04-02,CUST0229,Swathi,Bangalore,Karnataka,Mobile Phone,Electronics,1,20178.93,20178.93,Debit Card,Delivered
+ORD00704,2025-10-01,CUST0041,Nikhil,Pune,Maharashtra,Keyboard,Accessories,3,1876.64,5629.92,Cash on Delivery,Returned
+ORD00705,2025-02-19,CUST0234,Sneha,Chennai,Tamil Nadu,Mobile Phone,Electronics,3,23846.63,71539.89,Net Banking,Delivered
+ORD00706,2025-05-13,CUST0187,Rohit,Ahmedabad,Gujarat,Headphones,Accessories,4,2321.86,9287.44,Credit Card,Cancelled
+ORD00707,2025-02-27,CUST0180,Kavya,Delhi,Delhi,Keyboard,Accessories,1,1630.9,1630.9,Net Banking,Delivered
+ORD00708,2025-09-18,CUST0053,Rohit,Chennai,Tamil Nadu,Smartwatch,Accessories,2,5104.44,10208.88,UPI,Delivered
+ORD00709,2025-08-25,CUST0206,Aditya,Delhi,Delhi,Office Chair,Furniture,2,9526.38,19052.76,Net Banking,Cancelled
+ORD00710,2025-07-16,CUST0034,Amit,Mumbai,Maharashtra,Desk,Furniture,1,11181.65,11181.65,Credit Card,Delivered
+ORD00711,2025-10-06,CUST0121,Anjali,Kochi,Kerala,Mouse,Accessories,2,888.36,1776.72,UPI,Delivered
+ORD00712,2025-10-12,CUST0050,Nikhil,Kochi,Kerala,Monitor,Electronics,1,14269.01,14269.01,Credit Card,Delivered
+ORD00713,2025-07-14,CUST0168,Kavya,Pune,Maharashtra,Mouse,Accessories,1,829.57,829.57,UPI,Cancelled
+ORD00714,2025-01-01,CUST0076,Kiran,Hyderabad,Telangana,Headphones,Accessories,3,2693.63,8080.89,Net Banking,Returned
+ORD00715,2025-04-16,CUST0163,Sneha,Jaipur,Rajasthan,Smartwatch,Accessories,1,5077.93,5077.93,Cash on Delivery,Delivered
+ORD00716,2025-10-26,CUST0005,Swathi,Pune,Maharashtra,Mouse,Accessories,2,974.72,1949.44,Cash on Delivery,Delivered
+ORD00717,2025-01-28,CUST0001,Meena,Kolkata,West Bengal,Tablet,Electronics,3,16424.68,49274.04,Debit Card,Cancelled
+ORD00718,2025-10-30,CUST0202,Amit,Hyderabad,Telangana,Smartwatch,Accessories,3,4735.24,14205.72,Net Banking,Returned
+ORD00719,2025-09-01,CUST0072,Rahul,Kolkata,West Bengal,Mouse,Accessories,1,848.02,848.02,Cash on Delivery,Delivered
+ORD00720,2025-03-06,CUST0069,Ravi,Kolkata,West Bengal,Keyboard,Accessories,3,1675.54,5026.62,UPI,Returned
+ORD00721,2025-03-11,CUST0044,Kiran,Bangalore,Karnataka,Tablet,Electronics,2,17952.12,35904.24,Net Banking,Delivered
+ORD00722,2025-08-21,CUST0261,Divya,Ahmedabad,Gujarat,Power Bank,Accessories,2,1477.71,2955.42,Cash on Delivery,Delivered
+ORD00723,2025-01-04,CUST0296,Kavya,Ahmedabad,Gujarat,Mouse,Accessories,1,843.44,843.44,Credit Card,Cancelled
+ORD00724,2025-01-18,CUST0020,Aditya,Jaipur,Rajasthan,Smartwatch,Accessories,1,5046.17,5046.17,Net Banking,Delivered
+ORD00725,2025-03-14,CUST0270,Vijay,Delhi,Delhi,Mobile Phone,Electronics,2,24031.65,48063.3,Net Banking,Delivered
+ORD00726,2025-08-30,CUST0040,Meena,Jaipur,Rajasthan,Mobile Phone,Electronics,1,22484.31,22484.31,Cash on Delivery,Delivered
+ORD00727,2025-08-29,CUST0233,Suresh,Pune,Maharashtra,Desk,Furniture,1,11624.51,11624.51,Net Banking,Delivered
+ORD00728,2025-05-29,CUST0086,Priya,Kochi,Kerala,Power Bank,Accessories,1,1455.87,1455.87,Cash on Delivery,Delivered
+ORD00729,2025-08-31,CUST0297,Anjali,Pune,Maharashtra,Power Bank,Accessories,2,1428.13,2856.26,Cash on Delivery,Returned
+ORD00730,2025-01-14,CUST0147,Kavya,Bangalore,Karnataka,Backpack,Lifestyle,5,1911.2,9556.0,UPI,Cancelled
+ORD00731,2025-03-09,CUST0144,Vijay,Chennai,Tamil Nadu,Office Chair,Furniture,1,9510.77,9510.77,Debit Card,Delivered
+ORD00732,2025-03-19,CUST0229,Pooja,Bangalore,Karnataka,Power Bank,Accessories,1,1402.38,1402.38,Credit Card,Cancelled
+ORD00733,2025-01-17,CUST0176,Arun,Pune,Maharashtra,Power Bank,Accessories,1,1404.24,1404.24,Credit Card,Cancelled
+ORD00734,2025-07-16,CUST0122,Nikhil,Kochi,Kerala,Tablet,Electronics,3,18909.94,56729.82,Credit Card,Delivered
+ORD00735,2025-05-16,CUST0060,Priya,Mumbai,Maharashtra,Desk,Furniture,2,11628.18,23256.36,Credit Card,Returned
+ORD00736,2025-04-30,CUST0195,Rohit,Ahmedabad,Gujarat,Mouse,Accessories,1,895.73,895.73,Net Banking,Cancelled
+ORD00737,2025-08-18,CUST0196,Amit,Pune,Maharashtra,Tablet,Electronics,1,17765.04,17765.04,Cash on Delivery,Delivered
+ORD00738,2025-11-09,CUST0140,Amit,Bangalore,Karnataka,Mobile Phone,Electronics,3,22604.67,67814.01,Debit Card,Delivered
+ORD00739,2025-12-12,CUST0124,Aditya,Pune,Maharashtra,Mobile Phone,Electronics,1,22370.38,22370.38,Credit Card,Delivered
+ORD00740,2025-10-08,CUST0006,Ravi,Jaipur,Rajasthan,Keyboard,Accessories,2,1977.56,3955.12,UPI,Delivered
+ORD00741,2025-06-29,CUST0113,Sneha,Bangalore,Karnataka,Mouse,Accessories,1,828.7,828.7,Debit Card,Delivered
+ORD00742,2025-12-03,CUST0112,Swathi,Mumbai,Maharashtra,Laptop,Electronics,1,50511.35,50511.35,UPI,Cancelled
+ORD00743,2025-11-28,CUST0290,Anjali,Hyderabad,Telangana,Mobile Phone,Electronics,3,20371.59,61114.77,UPI,Returned
+ORD00744,2025-11-24,CUST0233,Vijay,Chennai,Tamil Nadu,Smartwatch,Accessories,1,5160.48,5160.48,Net Banking,Delivered
+ORD00745,2025-07-15,CUST0199,Amit,Delhi,Delhi,Smartwatch,Accessories,1,4574.0,4574.0,UPI,Delivered
+ORD00746,2025-11-09,CUST0202,Anjali,Pune,Maharashtra,Smartwatch,Accessories,1,4569.4,4569.4,Net Banking,Delivered
+ORD00747,2025-11-26,CUST0055,Nikhil,Hyderabad,Telangana,Tablet,Electronics,1,17752.51,17752.51,Debit Card,Cancelled
+ORD00748,2025-08-17,CUST0010,Kavya,Hyderabad,Telangana,Laptop,Electronics,1,55784.79,55784.79,Credit Card,Delivered
+ORD00749,2025-06-18,CUST0201,Aditya,Bangalore,Karnataka,Laptop,Electronics,2,52430.8,104861.6,UPI,Returned
+ORD00750,2025-07-26,CUST0036,Meena,Jaipur,Rajasthan,Power Bank,Accessories,4,1497.2,5988.8,Credit Card,Delivered
+ORD00751,2025-03-04,CUST0291,Meena,Bangalore,Karnataka,Mouse,Accessories,4,957.24,3828.96,Debit Card,Delivered
+ORD00752,2025-02-16,CUST0188,Meena,Delhi,Delhi,Backpack,Lifestyle,1,1639.87,1639.87,Debit Card,Returned
+ORD00753,2025-04-01,CUST0284,Priya,Hyderabad,Telangana,Monitor,Electronics,2,13411.88,26823.76,Net Banking,Delivered
+ORD00754,2025-12-19,CUST0184,Kavya,Mumbai,Maharashtra,Smartwatch,Accessories,2,5396.46,10792.92,UPI,Returned
+ORD00755,2025-10-31,CUST0123,Kavya,Ahmedabad,Gujarat,Power Bank,Accessories,1,1360.71,1360.71,Net Banking,Delivered
+ORD00756,2025-01-09,CUST0019,Amit,Hyderabad,Telangana,Office Chair,Furniture,2,8999.43,17998.86,UPI,Delivered
+ORD00757,2025-12-08,CUST0268,Nikhil,Delhi,Delhi,Power Bank,Accessories,1,1385.46,1385.46,Cash on Delivery,Returned
+ORD00758,2025-03-14,CUST0251,Ravi,Chennai,Tamil Nadu,Power Bank,Accessories,2,1627.44,3254.88,Net Banking,Delivered
+ORD00759,2025-03-30,CUST0026,Sneha,Kochi,Kerala,Laptop,Electronics,1,56636.65,56636.65,UPI,Delivered
+ORD00760,2025-02-28,CUST0255,Swathi,Ahmedabad,Gujarat,Desk,Furniture,1,12218.5,12218.5,Cash on Delivery,Delivered
+ORD00761,2025-12-14,CUST0206,Amit,Mumbai,Maharashtra,Mobile Phone,Electronics,3,21675.33,65025.99,UPI,Returned
+ORD00762,2025-01-24,CUST0089,Amit,Kochi,Kerala,Office Chair,Furniture,1,9605.57,9605.57,UPI,Delivered
+ORD00763,2025-07-09,CUST0284,Anjali,Hyderabad,Telangana,Smartwatch,Accessories,1,4915.15,4915.15,Net Banking,Returned
+ORD00764,2025-11-10,CUST0193,Anjali,Mumbai,Maharashtra,Desk,Furniture,1,11039.92,11039.92,UPI,Returned
+ORD00765,2025-12-28,CUST0146,Divya,Ahmedabad,Gujarat,Mobile Phone,Electronics,1,20589.42,20589.42,Net Banking,Delivered
+ORD00766,2025-07-30,CUST0123,Anjali,Chennai,Tamil Nadu,Headphones,Accessories,1,2385.47,2385.47,Cash on Delivery,Delivered
+ORD00767,2025-11-18,CUST0155,Pooja,Bangalore,Karnataka,Desk,Furniture,1,11999.73,11999.73,Net Banking,Delivered
+ORD00768,2025-02-18,CUST0186,Meena,Bangalore,Karnataka,Office Chair,Furniture,1,8311.51,8311.51,Cash on Delivery,Cancelled
+ORD00769,2025-01-28,CUST0100,Sita,Mumbai,Maharashtra,Monitor,Electronics,2,14446.12,28892.24,Credit Card,Delivered
+ORD00770,2025-01-28,CUST0187,Sneha,Ahmedabad,Gujarat,Monitor,Electronics,1,14476.4,14476.4,Credit Card,Delivered
+ORD00771,2025-01-23,CUST0054,Priya,Kolkata,West Bengal,Smartwatch,Accessories,1,5305.15,5305.15,Cash on Delivery,Delivered
+ORD00772,2025-02-06,CUST0121,Nikhil,Chennai,Tamil Nadu,Tablet,Electronics,2,17946.22,35892.44,Cash on Delivery,Delivered
+ORD00773,2025-04-28,CUST0057,Amit,Kochi,Kerala,Keyboard,Accessories,1,1888.95,1888.95,Credit Card,Delivered
+ORD00774,2025-04-23,CUST0038,Kavya,Hyderabad,Telangana,Headphones,Accessories,2,2684.94,5369.88,Cash on Delivery,Delivered
+ORD00775,2025-08-21,CUST0092,Rohit,Ahmedabad,Gujarat,Laptop,Electronics,3,51094.35,153283.05,Debit Card,Cancelled
+ORD00776,2025-04-14,CUST0172,Kiran,Chennai,Tamil Nadu,Monitor,Electronics,2,14369.66,28739.32,UPI,Delivered
+ORD00777,2025-08-23,CUST0215,Anjali,Kochi,Kerala,Laptop,Electronics,1,50722.2,50722.2,Debit Card,Delivered
+ORD00778,2025-11-10,CUST0088,Aditya,Mumbai,Maharashtra,Smartwatch,Accessories,2,5289.55,10579.1,Cash on Delivery,Returned
+ORD00779,2025-10-30,CUST0243,Nikhil,Mumbai,Maharashtra,Mobile Phone,Electronics,1,22095.78,22095.78,Debit Card,Delivered
+ORD00780,2025-06-17,CUST0223,Aditya,Bangalore,Karnataka,Power Bank,Accessories,1,1611.78,1611.78,Credit Card,Delivered
+ORD00781,2025-01-23,CUST0021,Kavya,Kochi,Kerala,Tablet,Electronics,3,19433.71,58301.13,Cash on Delivery,Delivered
+ORD00782,2025-02-20,CUST0232,Kavya,Bangalore,Karnataka,Mouse,Accessories,1,896.27,896.27,Credit Card,Returned
+ORD00783,2025-04-22,CUST0068,Pooja,Hyderabad,Telangana,Office Chair,Furniture,2,9347.69,18695.38,Debit Card,Delivered
+ORD00784,2025-06-06,CUST0083,Nikhil,Mumbai,Maharashtra,Backpack,Lifestyle,5,1625.73,8128.65,Cash on Delivery,Returned
+ORD00785,2025-12-27,CUST0208,Anjali,Kochi,Kerala,Laptop,Electronics,4,54601.37,218405.48,Debit Card,Delivered
+ORD00786,2025-07-17,CUST0171,Suresh,Ahmedabad,Gujarat,Power Bank,Accessories,2,1608.11,3216.22,UPI,Delivered
+ORD00787,2025-10-05,CUST0295,Rahul,Pune,Maharashtra,Mouse,Accessories,2,935.65,1871.3,UPI,Cancelled
+ORD00788,2025-07-06,CUST0027,Sita,Kochi,Kerala,Keyboard,Accessories,2,1639.73,3279.46,Net Banking,Returned
+ORD00789,2025-11-28,CUST0287,Arun,Delhi,Delhi,Monitor,Electronics,2,13623.6,27247.2,Cash on Delivery,Delivered
+ORD00790,2025-11-29,CUST0245,Aditya,Mumbai,Maharashtra,Tablet,Electronics,5,17059.08,85295.4,Credit Card,Delivered
+ORD00791,2025-08-05,CUST0142,Priya,Mumbai,Maharashtra,Keyboard,Accessories,1,1716.25,1716.25,UPI,Returned
+ORD00792,2025-08-29,CUST0273,Meena,Delhi,Delhi,Keyboard,Accessories,1,1800.52,1800.52,Debit Card,Delivered
+ORD00793,2025-02-03,CUST0097,Nikhil,Ahmedabad,Gujarat,Desk,Furniture,1,12415.94,12415.94,UPI,Returned
+ORD00794,2025-02-25,CUST0085,Vijay,Hyderabad,Telangana,Mouse,Accessories,3,861.91,2585.73,UPI,Delivered
+ORD00795,2025-01-12,CUST0151,Divya,Chennai,Tamil Nadu,Monitor,Electronics,1,13171.92,13171.92,Cash on Delivery,Returned
+ORD00796,2025-01-11,CUST0150,Rahul,Chennai,Tamil Nadu,Monitor,Electronics,1,13842.81,13842.81,UPI,Returned
+ORD00797,2025-07-30,CUST0297,Amit,Bangalore,Karnataka,Headphones,Accessories,3,2509.81,7529.43,Debit Card,Delivered
+ORD00798,2025-08-16,CUST0235,Sneha,Ahmedabad,Gujarat,Desk,Furniture,2,12072.4,24144.8,Cash on Delivery,Cancelled
+ORD00799,2025-07-10,CUST0148,Priya,Chennai,Tamil Nadu,Smartwatch,Accessories,1,4760.01,4760.01,Credit Card,Delivered
+ORD00800,2025-12-31,CUST0275,Sneha,Delhi,Delhi,Smartwatch,Accessories,1,4666.36,4666.36,Credit Card,Delivered
+ORD00801,2025-03-24,CUST0122,Sita,Chennai,Tamil Nadu,Power Bank,Accessories,2,1549.91,3099.82,UPI,Delivered
+ORD00802,2025-04-16,CUST0288,Priya,Delhi,Delhi,Desk,Furniture,1,11424.98,11424.98,Debit Card,Delivered
+ORD00803,2025-10-01,CUST0155,Sita,Delhi,Delhi,Tablet,Electronics,1,18143.52,18143.52,UPI,Delivered
+ORD00804,2025-03-21,CUST0003,Meena,Kolkata,West Bengal,Monitor,Electronics,2,15253.81,30507.62,Cash on Delivery,Delivered
+ORD00805,2025-10-21,CUST0076,Aditya,Delhi,Delhi,Backpack,Lifestyle,2,1790.61,3581.22,Net Banking,Delivered
+ORD00806,2025-03-13,CUST0283,Sita,Delhi,Delhi,Power Bank,Accessories,1,1493.69,1493.69,Debit Card,Delivered
+ORD00807,2025-02-17,CUST0168,Priya,Bangalore,Karnataka,Mouse,Accessories,2,849.67,1699.34,Cash on Delivery,Delivered
+ORD00808,2025-04-11,CUST0012,Arun,Mumbai,Maharashtra,Desk,Furniture,1,12675.08,12675.08,Cash on Delivery,Delivered
+ORD00809,2025-07-21,CUST0100,Kavya,Ahmedabad,Gujarat,Backpack,Lifestyle,2,1651.46,3302.92,Debit Card,Cancelled
+ORD00810,2025-07-04,CUST0204,Kiran,Kochi,Kerala,Desk,Furniture,1,10934.51,10934.51,Net Banking,Returned
+ORD00811,2025-06-07,CUST0229,Meena,Delhi,Delhi,Mouse,Accessories,1,861.24,861.24,UPI,Delivered
+ORD00812,2025-08-15,CUST0148,Anjali,Mumbai,Maharashtra,Power Bank,Accessories,3,1572.46,4717.38,Net Banking,Delivered
+ORD00813,2025-04-17,CUST0156,Kavya,Kolkata,West Bengal,Tablet,Electronics,3,18352.57,55057.71,Cash on Delivery,Delivered
+ORD00814,2025-02-15,CUST0004,Divya,Delhi,Delhi,Mobile Phone,Electronics,4,22398.99,89595.96,Debit Card,Delivered
+ORD00815,2025-04-13,CUST0096,Rohit,Kolkata,West Bengal,Tablet,Electronics,2,18756.89,37513.78,Debit Card,Delivered
+ORD00816,2025-06-05,CUST0253,Meena,Jaipur,Rajasthan,Monitor,Electronics,1,14913.5,14913.5,Net Banking,Cancelled
+ORD00817,2025-11-24,CUST0242,Sita,Mumbai,Maharashtra,Laptop,Electronics,2,51194.26,102388.52,Debit Card,Delivered
+ORD00818,2025-01-15,CUST0062,Vijay,Kolkata,West Bengal,Tablet,Electronics,1,18676.24,18676.24,Net Banking,Delivered
+ORD00819,2025-08-12,CUST0133,Kavya,Hyderabad,Telangana,Desk,Furniture,2,12194.56,24389.12,UPI,Cancelled
+ORD00820,2025-03-25,CUST0298,Priya,Delhi,Delhi,Office Chair,Furniture,2,8131.58,16263.16,Credit Card,Delivered
+ORD00821,2025-01-28,CUST0140,Pooja,Delhi,Delhi,Monitor,Electronics,3,12979.39,38938.17,Net Banking,Delivered
+ORD00822,2025-09-21,CUST0100,Anjali,Delhi,Delhi,Laptop,Electronics,1,55325.74,55325.74,UPI,Delivered
+ORD00823,2025-06-04,CUST0139,Pooja,Kochi,Kerala,Tablet,Electronics,1,19340.8,19340.8,UPI,Returned
+ORD00824,2025-09-23,CUST0145,Pooja,Jaipur,Rajasthan,Desk,Furniture,1,11144.92,11144.92,Net Banking,Delivered
+ORD00825,2025-03-21,CUST0258,Neha,Kolkata,West Bengal,Keyboard,Accessories,4,1678.69,6714.76,Credit Card,Delivered
+ORD00826,2025-12-31,CUST0283,Sita,Jaipur,Rajasthan,Desk,Furniture,2,13085.99,26171.98,Net Banking,Cancelled
+ORD00827,2025-09-03,CUST0179,Sneha,Ahmedabad,Gujarat,Mobile Phone,Electronics,1,20377.42,20377.42,Debit Card,Delivered
+ORD00828,2025-03-30,CUST0156,Ravi,Chennai,Tamil Nadu,Monitor,Electronics,3,14273.42,42820.26,UPI,Delivered
+ORD00829,2025-06-07,CUST0065,Rahul,Mumbai,Maharashtra,Tablet,Electronics,3,16712.49,50137.47,Credit Card,Delivered
+ORD00830,2025-01-10,CUST0248,Divya,Hyderabad,Telangana,Mouse,Accessories,2,951.13,1902.26,UPI,Delivered
+ORD00831,2025-01-31,CUST0241,Sita,Mumbai,Maharashtra,Mobile Phone,Electronics,1,22703.07,22703.07,Debit Card,Cancelled
+ORD00832,2025-03-05,CUST0106,Aditya,Bangalore,Karnataka,Mobile Phone,Electronics,1,19845.2,19845.2,Credit Card,Delivered
+ORD00833,2025-05-23,CUST0297,Pooja,Chennai,Tamil Nadu,Backpack,Lifestyle,1,1652.68,1652.68,Debit Card,Returned
+ORD00834,2025-10-19,CUST0035,Sita,Chennai,Tamil Nadu,Office Chair,Furniture,2,9203.32,18406.64,Cash on Delivery,Cancelled
+ORD00835,2025-03-29,CUST0276,Ravi,Bangalore,Karnataka,Office Chair,Furniture,1,8444.79,8444.79,UPI,Delivered
+ORD00836,2025-10-29,CUST0095,Nikhil,Mumbai,Maharashtra,Office Chair,Furniture,3,8954.49,26863.47,UPI,Returned
+ORD00837,2025-04-27,CUST0209,Sita,Chennai,Tamil Nadu,Keyboard,Accessories,5,1772.67,8863.35,Debit Card,Cancelled
+ORD00838,2025-12-27,CUST0148,Meena,Hyderabad,Telangana,Monitor,Electronics,1,12980.55,12980.55,UPI,Delivered
+ORD00839,2025-11-04,CUST0160,Nikhil,Hyderabad,Telangana,Keyboard,Accessories,1,1758.52,1758.52,Credit Card,Delivered
+ORD00840,2025-02-05,CUST0244,Pooja,Jaipur,Rajasthan,Mouse,Accessories,1,963.97,963.97,Credit Card,Delivered
+ORD00841,2025-09-25,CUST0044,Sita,Bangalore,Karnataka,Backpack,Lifestyle,1,1657.86,1657.86,Credit Card,Delivered
+ORD00842,2025-03-28,CUST0034,Pooja,Kolkata,West Bengal,Mouse,Accessories,2,985.96,1971.92,Credit Card,Returned
+ORD00843,2025-04-30,CUST0218,Kavya,Delhi,Delhi,Headphones,Accessories,2,2745.33,5490.66,Debit Card,Delivered
+ORD00844,2025-07-24,CUST0183,Kavya,Kochi,Kerala,Desk,Furniture,1,12694.78,12694.78,Cash on Delivery,Returned
+ORD00845,2025-02-25,CUST0063,Vijay,Kolkata,West Bengal,Monitor,Electronics,1,13012.65,13012.65,Net Banking,Delivered
+ORD00846,2025-01-28,CUST0035,Kavya,Ahmedabad,Gujarat,Headphones,Accessories,2,2317.3,4634.6,UPI,Delivered
+ORD00847,2025-11-15,CUST0050,Arun,Chennai,Tamil Nadu,Mouse,Accessories,2,868.85,1737.7,Cash on Delivery,Delivered
+ORD00848,2025-09-16,CUST0134,Meena,Ahmedabad,Gujarat,Monitor,Electronics,1,14453.86,14453.86,Debit Card,Delivered
+ORD00849,2025-03-02,CUST0197,Nikhil,Jaipur,Rajasthan,Office Chair,Furniture,1,9475.14,9475.14,Debit Card,Delivered
+ORD00850,2025-12-04,CUST0156,Anjali,Kolkata,West Bengal,Monitor,Electronics,1,12692.01,12692.01,Net Banking,Cancelled
+ORD00851,2025-10-19,CUST0252,Meena,Kolkata,West Bengal,Tablet,Electronics,1,17600.69,17600.69,Cash on Delivery,Delivered
+ORD00852,2025-01-29,CUST0201,Vijay,Kochi,Kerala,Monitor,Electronics,1,14992.18,14992.18,Net Banking,Cancelled
+ORD00853,2025-06-14,CUST0032,Ravi,Kochi,Kerala,Mouse,Accessories,2,873.5,1747.0,Cash on Delivery,Delivered
+ORD00854,2025-10-26,CUST0014,Amit,Bangalore,Karnataka,Tablet,Electronics,3,17455.96,52367.88,Net Banking,Returned
+ORD00855,2025-01-29,CUST0126,Neha,Hyderabad,Telangana,Mouse,Accessories,1,874.33,874.33,Credit Card,Delivered
+ORD00856,2025-02-28,CUST0173,Anjali,Pune,Maharashtra,Desk,Furniture,1,12451.18,12451.18,UPI,Delivered
+ORD00857,2025-10-18,CUST0264,Divya,Jaipur,Rajasthan,Keyboard,Accessories,1,1856.8,1856.8,Debit Card,Delivered
+ORD00858,2025-07-13,CUST0293,Rohit,Bangalore,Karnataka,Power Bank,Accessories,1,1356.67,1356.67,Debit Card,Delivered
+ORD00859,2025-04-16,CUST0173,Kavya,Kochi,Kerala,Mobile Phone,Electronics,3,20240.25,60720.75,Cash on Delivery,Returned
+ORD00860,2025-04-14,CUST0255,Arun,Delhi,Delhi,Tablet,Electronics,2,17508.0,35016.0,Cash on Delivery,Delivered
+ORD00861,2025-07-25,CUST0116,Swathi,Mumbai,Maharashtra,Smartwatch,Accessories,1,4797.32,4797.32,UPI,Cancelled
+ORD00862,2025-09-29,CUST0244,Divya,Kochi,Kerala,Mobile Phone,Electronics,2,21002.81,42005.62,Credit Card,Cancelled
+ORD00863,2025-08-10,CUST0277,Amit,Delhi,Delhi,Mobile Phone,Electronics,2,21128.13,42256.26,Credit Card,Delivered
+ORD00864,2025-10-08,CUST0093,Ravi,Kolkata,West Bengal,Mouse,Accessories,1,902.77,902.77,Cash on Delivery,Returned
+ORD00865,2025-08-28,CUST0138,Meena,Chennai,Tamil Nadu,Desk,Furniture,1,12385.93,12385.93,Cash on Delivery,Returned
+ORD00866,2025-07-06,CUST0237,Kiran,Kolkata,West Bengal,Desk,Furniture,2,10943.72,21887.44,Credit Card,Delivered
+ORD00867,2025-07-30,CUST0164,Arun,Chennai,Tamil Nadu,Power Bank,Accessories,2,1440.08,2880.16,Credit Card,Delivered
+ORD00868,2025-12-18,CUST0121,Rohit,Kolkata,West Bengal,Smartwatch,Accessories,3,5146.04,15438.12,Credit Card,Delivered
+ORD00869,2025-08-26,CUST0249,Meena,Hyderabad,Telangana,Tablet,Electronics,1,17084.11,17084.11,Net Banking,Delivered
+ORD00870,2025-03-11,CUST0015,Vijay,Kolkata,West Bengal,Backpack,Lifestyle,3,1692.72,5078.16,Debit Card,Delivered
+ORD00871,2025-09-06,CUST0011,Priya,Jaipur,Rajasthan,Tablet,Electronics,2,16352.04,32704.08,UPI,Returned
+ORD00872,2025-07-06,CUST0047,Rohit,Delhi,Delhi,Desk,Furniture,1,10952.6,10952.6,Credit Card,Delivered
+ORD00873,2025-09-25,CUST0298,Suresh,Mumbai,Maharashtra,Mobile Phone,Electronics,2,22001.09,44002.18,Debit Card,Delivered
+ORD00874,2025-06-18,CUST0300,Rohit,Ahmedabad,Gujarat,Mobile Phone,Electronics,1,20338.02,20338.02,Credit Card,Delivered
+ORD00875,2025-08-14,CUST0210,Vijay,Kolkata,West Bengal,Headphones,Accessories,1,2337.58,2337.58,Cash on Delivery,Delivered
+ORD00876,2025-06-12,CUST0280,Divya,Bangalore,Karnataka,Monitor,Electronics,1,14558.93,14558.93,Net Banking,Delivered
+ORD00877,2025-09-01,CUST0189,Sneha,Mumbai,Maharashtra,Smartwatch,Accessories,3,5436.97,16310.91,UPI,Delivered
+ORD00878,2025-12-20,CUST0123,Vijay,Kochi,Kerala,Laptop,Electronics,3,56784.46,170353.38,Cash on Delivery,Delivered
+ORD00879,2025-03-04,CUST0274,Neha,Kolkata,West Bengal,Smartwatch,Accessories,2,5200.62,10401.24,Net Banking,Returned
+ORD00880,2025-06-04,CUST0047,Neha,Kolkata,West Bengal,Laptop,Electronics,3,53822.73,161468.19,Debit Card,Delivered
+ORD00881,2025-07-28,CUST0018,Vijay,Mumbai,Maharashtra,Tablet,Electronics,3,18472.87,55418.61,UPI,Returned
+ORD00882,2025-08-05,CUST0052,Anjali,Ahmedabad,Gujarat,Monitor,Electronics,2,15194.19,30388.38,Debit Card,Delivered
+ORD00883,2025-06-17,CUST0233,Ravi,Jaipur,Rajasthan,Mobile Phone,Electronics,1,22449.31,22449.31,UPI,Cancelled
+ORD00884,2025-07-25,CUST0103,Sneha,Chennai,Tamil Nadu,Backpack,Lifestyle,1,1850.8,1850.8,Debit Card,Delivered
+ORD00885,2025-11-29,CUST0067,Swathi,Kochi,Kerala,Mobile Phone,Electronics,1,20898.26,20898.26,Net Banking,Returned
+ORD00886,2025-03-30,CUST0168,Sneha,Delhi,Delhi,Monitor,Electronics,1,14658.48,14658.48,Credit Card,Delivered
+ORD00887,2025-10-20,CUST0115,Ravi,Hyderabad,Telangana,Mouse,Accessories,1,880.83,880.83,UPI,Delivered
+ORD00888,2025-08-25,CUST0102,Vijay,Jaipur,Rajasthan,Backpack,Lifestyle,2,1702.33,3404.66,Credit Card,Delivered
+ORD00889,2025-02-15,CUST0189,Anjali,Bangalore,Karnataka,Mouse,Accessories,2,918.07,1836.14,Cash on Delivery,Delivered
+ORD00890,2025-12-11,CUST0254,Sita,Hyderabad,Telangana,Laptop,Electronics,2,54286.75,108573.5,Credit Card,Delivered
+ORD00891,2025-05-28,CUST0254,Rohit,Mumbai,Maharashtra,Headphones,Accessories,4,2656.71,10626.84,Credit Card,Delivered
+ORD00892,2025-12-13,CUST0097,Divya,Kolkata,West Bengal,Headphones,Accessories,2,2747.6,5495.2,Credit Card,Delivered
+ORD00893,2025-11-13,CUST0231,Neha,Kolkata,West Bengal,Tablet,Electronics,1,19714.06,19714.06,Debit Card,Delivered
+ORD00894,2025-03-10,CUST0166,Rohit,Kochi,Kerala,Backpack,Lifestyle,2,1650.87,3301.74,Credit Card,Delivered
+ORD00895,2025-02-18,CUST0286,Priya,Kolkata,West Bengal,Power Bank,Accessories,1,1529.16,1529.16,UPI,Delivered
+ORD00896,2025-12-10,CUST0024,Ravi,Delhi,Delhi,Headphones,Accessories,1,2427.15,2427.15,Debit Card,Cancelled
+ORD00897,2025-07-09,CUST0068,Meena,Jaipur,Rajasthan,Desk,Furniture,1,13146.06,13146.06,UPI,Returned
+ORD00898,2025-08-28,CUST0068,Arun,Kochi,Kerala,Tablet,Electronics,1,18013.49,18013.49,Debit Card,Delivered
+ORD00899,2025-03-07,CUST0256,Vijay,Jaipur,Rajasthan,Mouse,Accessories,1,831.03,831.03,Debit Card,Delivered
+ORD00900,2025-09-22,CUST0161,Divya,Kolkata,West Bengal,Smartwatch,Accessories,3,4763.22,14289.66,Credit Card,Delivered
+ORD00901,2025-10-12,CUST0226,Priya,Delhi,Delhi,Power Bank,Accessories,5,1579.1,7895.5,Credit Card,Delivered
+ORD00902,2025-03-25,CUST0240,Divya,Chennai,Tamil Nadu,Laptop,Electronics,1,49894.48,49894.48,UPI,Delivered
+ORD00903,2025-09-06,CUST0235,Kavya,Ahmedabad,Gujarat,Laptop,Electronics,1,60377.0,60377.0,UPI,Cancelled
+ORD00904,2025-04-03,CUST0087,Suresh,Chennai,Tamil Nadu,Mobile Phone,Electronics,1,20696.43,20696.43,Debit Card,Delivered
+ORD00905,2025-09-27,CUST0293,Anjali,Kochi,Kerala,Backpack,Lifestyle,2,1830.08,3660.16,Net Banking,Delivered
+ORD00906,2025-01-14,CUST0146,Sita,Hyderabad,Telangana,Headphones,Accessories,2,2588.45,5176.9,Net Banking,Delivered
+ORD00907,2025-03-20,CUST0015,Arun,Delhi,Delhi,Desk,Furniture,4,11054.57,44218.28,Net Banking,Delivered
+ORD00908,2025-01-03,CUST0169,Priya,Ahmedabad,Gujarat,Monitor,Electronics,2,13354.09,26708.18,Cash on Delivery,Returned
+ORD00909,2025-03-08,CUST0109,Priya,Ahmedabad,Gujarat,Keyboard,Accessories,4,1979.94,7919.76,Debit Card,Cancelled
+ORD00910,2025-07-15,CUST0048,Rohit,Delhi,Delhi,Laptop,Electronics,2,55518.72,111037.44,Debit Card,Cancelled
+ORD00911,2025-01-11,CUST0107,Anjali,Chennai,Tamil Nadu,Headphones,Accessories,4,2682.76,10731.04,Net Banking,Delivered
+ORD00912,2025-03-03,CUST0153,Kavya,Kolkata,West Bengal,Smartwatch,Accessories,2,5454.43,10908.86,Net Banking,Delivered
+ORD00913,2025-07-08,CUST0263,Rahul,Pune,Maharashtra,Backpack,Lifestyle,2,1749.26,3498.52,Net Banking,Delivered
+ORD00914,2025-02-16,CUST0217,Pooja,Ahmedabad,Gujarat,Mouse,Accessories,1,911.35,911.35,Cash on Delivery,Delivered
+ORD00915,2025-06-24,CUST0238,Neha,Chennai,Tamil Nadu,Mouse,Accessories,2,826.73,1653.46,Credit Card,Cancelled
+ORD00916,2025-08-28,CUST0224,Arun,Ahmedabad,Gujarat,Office Chair,Furniture,2,9044.42,18088.84,Net Banking,Delivered
+ORD00917,2025-05-08,CUST0268,Divya,Pune,Maharashtra,Tablet,Electronics,5,18663.53,93317.65,Debit Card,Delivered
+ORD00918,2025-02-25,CUST0262,Divya,Kochi,Kerala,Laptop,Electronics,2,59590.32,119180.64,Net Banking,Cancelled
+ORD00919,2025-07-01,CUST0131,Aditya,Hyderabad,Telangana,Monitor,Electronics,2,14191.74,28383.48,UPI,Delivered
+ORD00920,2025-04-04,CUST0202,Priya,Jaipur,Rajasthan,Laptop,Electronics,1,56777.36,56777.36,UPI,Delivered
+ORD00921,2025-12-10,CUST0231,Swathi,Kolkata,West Bengal,Power Bank,Accessories,1,1526.16,1526.16,Debit Card,Delivered
+ORD00922,2025-05-13,CUST0055,Divya,Delhi,Delhi,Tablet,Electronics,1,16481.59,16481.59,Cash on Delivery,Cancelled
+ORD00923,2025-09-02,CUST0236,Rohit,Bangalore,Karnataka,Laptop,Electronics,1,49646.35,49646.35,Cash on Delivery,Returned
+ORD00924,2025-12-20,CUST0203,Sneha,Ahmedabad,Gujarat,Smartwatch,Accessories,2,5473.92,10947.84,UPI,Delivered
+ORD00925,2025-12-23,CUST0097,Ravi,Chennai,Tamil Nadu,Tablet,Electronics,1,16602.89,16602.89,Credit Card,Delivered
+ORD00926,2025-10-03,CUST0098,Arun,Ahmedabad,Gujarat,Backpack,Lifestyle,1,1707.04,1707.04,Debit Card,Returned
+ORD00927,2025-03-20,CUST0228,Kavya,Ahmedabad,Gujarat,Tablet,Electronics,1,16278.54,16278.54,Net Banking,Delivered
+ORD00928,2025-07-20,CUST0027,Amit,Bangalore,Karnataka,Monitor,Electronics,2,13163.75,26327.5,UPI,Cancelled
+ORD00929,2025-09-11,CUST0297,Swathi,Hyderabad,Telangana,Backpack,Lifestyle,3,1775.44,5326.32,Cash on Delivery,Delivered
+ORD00930,2025-11-10,CUST0250,Neha,Pune,Maharashtra,Laptop,Electronics,1,54847.11,54847.11,UPI,Cancelled
+ORD00931,2025-05-18,CUST0214,Kavya,Jaipur,Rajasthan,Laptop,Electronics,1,52974.35,52974.35,UPI,Delivered
+ORD00932,2025-08-12,CUST0011,Anjali,Ahmedabad,Gujarat,Desk,Furniture,4,11632.23,46528.92,Debit Card,Returned
+ORD00933,2025-10-28,CUST0174,Swathi,Mumbai,Maharashtra,Monitor,Electronics,1,13249.89,13249.89,Net Banking,Delivered
+ORD00934,2025-12-11,CUST0185,Kavya,Chennai,Tamil Nadu,Smartwatch,Accessories,2,4890.37,9780.74,Credit Card,Delivered
+ORD00935,2025-09-05,CUST0067,Anjali,Kochi,Kerala,Headphones,Accessories,1,2624.63,2624.63,Credit Card,Returned
+ORD00936,2025-06-05,CUST0121,Rahul,Chennai,Tamil Nadu,Desk,Furniture,1,12704.36,12704.36,Cash on Delivery,Delivered
+ORD00937,2025-03-23,CUST0090,Suresh,Bangalore,Karnataka,Laptop,Electronics,1,52368.89,52368.89,UPI,Returned
+ORD00938,2025-10-15,CUST0115,Kavya,Hyderabad,Telangana,Keyboard,Accessories,1,1842.32,1842.32,Debit Card,Delivered
+ORD00939,2025-05-17,CUST0078,Suresh,Delhi,Delhi,Keyboard,Accessories,2,1897.23,3794.46,Cash on Delivery,Cancelled
+ORD00940,2025-02-26,CUST0055,Swathi,Hyderabad,Telangana,Power Bank,Accessories,1,1633.88,1633.88,Cash on Delivery,Delivered
+ORD00941,2025-03-02,CUST0106,Pooja,Hyderabad,Telangana,Office Chair,Furniture,1,8289.74,8289.74,Credit Card,Returned
+ORD00942,2025-02-20,CUST0079,Pooja,Pune,Maharashtra,Power Bank,Accessories,1,1501.77,1501.77,Debit Card,Returned
+ORD00943,2025-01-04,CUST0126,Kavya,Chennai,Tamil Nadu,Mobile Phone,Electronics,3,21732.08,65196.24,Debit Card,Delivered
+ORD00944,2025-08-01,CUST0185,Neha,Pune,Maharashtra,Office Chair,Furniture,1,8578.83,8578.83,Credit Card,Returned
+ORD00945,2025-07-31,CUST0210,Nikhil,Jaipur,Rajasthan,Mouse,Accessories,2,834.84,1669.68,Cash on Delivery,Delivered
+ORD00946,2025-09-22,CUST0036,Arun,Delhi,Delhi,Laptop,Electronics,1,57971.67,57971.67,Debit Card,Returned
+ORD00947,2025-07-21,CUST0019,Kiran,Delhi,Delhi,Mouse,Accessories,5,839.58,4197.9,Cash on Delivery,Delivered
+ORD00948,2025-06-01,CUST0215,Rohit,Bangalore,Karnataka,Backpack,Lifestyle,5,1907.67,9538.35,Cash on Delivery,Cancelled
+ORD00949,2025-05-24,CUST0271,Swathi,Pune,Maharashtra,Power Bank,Accessories,2,1622.77,3245.54,Credit Card,Delivered
+ORD00950,2025-11-13,CUST0227,Pooja,Kolkata,West Bengal,Monitor,Electronics,2,15085.22,30170.44,Net Banking,Cancelled
+ORD00951,2025-03-06,CUST0267,Meena,Mumbai,Maharashtra,Smartwatch,Accessories,1,5037.43,5037.43,Debit Card,Delivered
+ORD00952,2025-11-22,CUST0082,Ravi,Mumbai,Maharashtra,Mobile Phone,Electronics,1,21173.91,21173.91,UPI,Delivered
+ORD00953,2025-08-05,CUST0259,Sita,Jaipur,Rajasthan,Desk,Furniture,1,12797.35,12797.35,UPI,Delivered
+ORD00954,2025-11-30,CUST0064,Nikhil,Delhi,Delhi,Smartwatch,Accessories,2,4854.47,9708.94,Debit Card,Delivered
+ORD00955,2025-10-25,CUST0290,Meena,Kochi,Kerala,Power Bank,Accessories,1,1451.69,1451.69,Cash on Delivery,Delivered
+ORD00956,2025-10-21,CUST0072,Rohit,Mumbai,Maharashtra,Keyboard,Accessories,1,1860.09,1860.09,Cash on Delivery,Returned
+ORD00957,2025-08-21,CUST0051,Kiran,Mumbai,Maharashtra,Mobile Phone,Electronics,1,22362.42,22362.42,Net Banking,Delivered
+ORD00958,2025-09-01,CUST0110,Nikhil,Kolkata,West Bengal,Mobile Phone,Electronics,1,21669.5,21669.5,UPI,Delivered
+ORD00959,2025-07-22,CUST0136,Aditya,Delhi,Delhi,Backpack,Lifestyle,1,1831.77,1831.77,Net Banking,Cancelled
+ORD00960,2025-08-02,CUST0084,Kiran,Kolkata,West Bengal,Monitor,Electronics,2,15253.9,30507.8,Cash on Delivery,Returned
+ORD00961,2025-09-20,CUST0271,Sita,Chennai,Tamil Nadu,Monitor,Electronics,2,12962.28,25924.56,Credit Card,Returned
+ORD00962,2025-07-09,CUST0061,Swathi,Ahmedabad,Gujarat,Monitor,Electronics,1,13039.15,13039.15,Net Banking,Cancelled
+ORD00963,2025-03-20,CUST0061,Pooja,Hyderabad,Telangana,Mobile Phone,Electronics,1,21074.2,21074.2,Debit Card,Cancelled
+ORD00964,2025-03-14,CUST0216,Priya,Delhi,Delhi,Smartwatch,Accessories,1,4527.98,4527.98,Debit Card,Delivered
+ORD00965,2025-03-04,CUST0281,Pooja,Pune,Maharashtra,Headphones,Accessories,1,2619.83,2619.83,UPI,Delivered
+ORD00966,2025-06-22,CUST0194,Kavya,Bangalore,Karnataka,Mouse,Accessories,1,865.75,865.75,Cash on Delivery,Delivered
+ORD00967,2025-12-08,CUST0230,Kiran,Chennai,Tamil Nadu,Tablet,Electronics,1,17859.37,17859.37,Debit Card,Delivered
+ORD00968,2025-07-22,CUST0174,Meena,Hyderabad,Telangana,Desk,Furniture,2,11783.11,23566.22,UPI,Delivered
+ORD00969,2025-12-29,CUST0013,Aditya,Ahmedabad,Gujarat,Power Bank,Accessories,1,1376.56,1376.56,Debit Card,Delivered
+ORD00970,2025-11-13,CUST0278,Aditya,Jaipur,Rajasthan,Backpack,Lifestyle,1,1821.37,1821.37,UPI,Delivered
+ORD00971,2025-03-03,CUST0273,Anjali,Kochi,Kerala,Office Chair,Furniture,1,8956.5,8956.5,UPI,Delivered
+ORD00972,2025-08-16,CUST0044,Meena,Pune,Maharashtra,Headphones,Accessories,1,2602.81,2602.81,Cash on Delivery,Cancelled
+ORD00973,2025-06-24,CUST0224,Anjali,Delhi,Delhi,Mouse,Accessories,2,898.47,1796.94,Net Banking,Delivered
+ORD00974,2025-02-20,CUST0278,Anjali,Bangalore,Karnataka,Office Chair,Furniture,1,8562.92,8562.92,Debit Card,Delivered
+ORD00975,2025-07-28,CUST0087,Priya,Chennai,Tamil Nadu,Tablet,Electronics,1,16522.66,16522.66,Cash on Delivery,Delivered
+ORD00976,2025-02-20,CUST0164,Kiran,Delhi,Delhi,Tablet,Electronics,1,16410.61,16410.61,Net Banking,Delivered
+ORD00977,2025-01-27,CUST0104,Neha,Delhi,Delhi,Smartwatch,Accessories,1,5327.74,5327.74,Cash on Delivery,Delivered
+ORD00978,2025-02-28,CUST0138,Priya,Kochi,Kerala,Headphones,Accessories,1,2626.19,2626.19,Debit Card,Delivered
+ORD00979,2025-11-21,CUST0120,Ravi,Ahmedabad,Gujarat,Office Chair,Furniture,1,8971.51,8971.51,Debit Card,Delivered
+ORD00980,2025-11-30,CUST0065,Sneha,Jaipur,Rajasthan,Desk,Furniture,2,11391.16,22782.32,Cash on Delivery,Cancelled
+ORD00981,2025-03-14,CUST0192,Meena,Kolkata,West Bengal,Monitor,Electronics,1,14380.24,14380.24,Credit Card,Delivered
+ORD00982,2025-08-20,CUST0022,Ravi,Mumbai,Maharashtra,Office Chair,Furniture,4,9830.43,39321.72,Net Banking,Cancelled
+ORD00983,2025-09-04,CUST0140,Swathi,Kochi,Kerala,Smartwatch,Accessories,2,4667.38,9334.76,Debit Card,Delivered
+ORD00984,2025-05-25,CUST0024,Anjali,Kolkata,West Bengal,Keyboard,Accessories,3,1696.59,5089.77,Cash on Delivery,Cancelled
+ORD00985,2025-03-13,CUST0285,Vijay,Kochi,Kerala,Mobile Phone,Electronics,1,21539.34,21539.34,Net Banking,Delivered
+ORD00986,2025-06-25,CUST0134,Nikhil,Mumbai,Maharashtra,Desk,Furniture,1,12724.94,12724.94,Debit Card,Returned
+ORD00987,2025-11-03,CUST0169,Ravi,Mumbai,Maharashtra,Backpack,Lifestyle,5,1742.99,8714.95,Credit Card,Delivered
+ORD00988,2025-03-30,CUST0212,Meena,Bangalore,Karnataka,Desk,Furniture,1,12963.47,12963.47,Net Banking,Returned
+ORD00989,2025-02-09,CUST0276,Ravi,Kolkata,West Bengal,Office Chair,Furniture,1,9678.1,9678.1,Net Banking,Returned
+ORD00990,2025-07-03,CUST0199,Anjali,Hyderabad,Telangana,Keyboard,Accessories,4,1755.5,7022.0,UPI,Cancelled
+ORD00991,2025-04-24,CUST0011,Vijay,Hyderabad,Telangana,Monitor,Electronics,1,13140.37,13140.37,Debit Card,Delivered
+ORD00992,2025-04-24,CUST0120,Kavya,Mumbai,Maharashtra,Mobile Phone,Electronics,3,22551.04,67653.12,Debit Card,Returned
+ORD00993,2025-04-18,CUST0004,Rahul,Bangalore,Karnataka,Smartwatch,Accessories,1,5204.05,5204.05,Net Banking,Cancelled
+ORD00994,2025-04-10,CUST0290,Swathi,Hyderabad,Telangana,Smartwatch,Accessories,2,4994.01,9988.02,Cash on Delivery,Cancelled
+ORD00995,2025-05-13,CUST0292,Neha,Chennai,Tamil Nadu,Mobile Phone,Electronics,2,23082.28,46164.56,Cash on Delivery,Delivered
+ORD00996,2025-12-14,CUST0273,Swathi,Pune,Maharashtra,Headphones,Accessories,3,2261.56,6784.68,Debit Card,Returned
+ORD00997,2025-11-29,CUST0027,Amit,Jaipur,Rajasthan,Monitor,Electronics,1,13795.92,13795.92,Net Banking,Returned
+ORD00998,2025-07-05,CUST0265,Priya,Kolkata,West Bengal,Smartwatch,Accessories,1,5018.3,5018.3,Credit Card,Delivered
+ORD00999,2025-01-03,CUST0201,Rahul,Bangalore,Karnataka,Smartwatch,Accessories,3,5032.41,15097.23,Debit Card,Delivered
+ORD01000,2025-12-20,CUST0217,Arun,Hyderabad,Telangana,Desk,Furniture,3,13176.64,39529.92,Credit Card,Delivered
