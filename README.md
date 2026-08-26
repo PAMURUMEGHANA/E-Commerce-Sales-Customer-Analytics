@@ -99,7 +99,7 @@ The analysis helps identify:
 
 ## 🔄 Project Workflow
 
-
+```text
 Raw E-Commerce Data
         ↓
 📊 Excel / Power Query
@@ -111,4 +111,3 @@ Raw E-Commerce Data
 📈 Power BI Dashboard
         ↓
 💡 Business Insights
-
